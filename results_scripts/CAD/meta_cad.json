@@ -1,0 +1,3 @@
+{
+  "registro_subclasse": [["Codigo_CVM", "numeric", "7"], ["Data_Constituicao", "date", "10"], ["ID_Subclasse", "varchar", "15"], ["Publico_Alvo", "varchar", "15"], ["Forma_Condominio", "varchar", "100"], ["Denominacao_Social", "varchar", "100"], ["ID_Registro_Classe", "bigint", "19"], ["Data_Inicio", "date", "10"], ["Situacao", "varchar", "100"], ["Exclusivo", "varchar", "1"]]
+}

@@ -1,0 +1,1812 @@
+./scripts_dados_cvm/../dados/CAD/META/meta_cad_fi_hist_denom_comerc.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/CAD/META/meta_cad_fi_hist_sit.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/CAD/META/meta_cad_fi_hist_admin.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/CAD/META/meta_cad_fi_hist_diretor_resp.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/CAD/META/meta_cad_fi.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/CAD/META/meta_cad_fi_hist_trib_lprazo.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/CAD/META/meta_cad_fi_hist_custodiante.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/CAD/META/meta_cad_fi_hist_classe.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/CAD/META/meta_cad_fi_hist_auditor.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/CAD/META/meta_registro_subclasse.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/CAD/META/meta_cad_fi_hist_condom.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/CAD/META/meta_registro_classe.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/CAD/META/meta_cad_fi_hist_publico_alvo.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/CAD/META/meta_cad_fi_hist_controlador.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/CAD/META/meta_cad_fi_hist_fic.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/CAD/META/meta_cad_fi_hist_rentab.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/CAD/META/meta_cad_fi_hist_exclusivo.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/CAD/META/meta_cad_fi_hist_taxa_adm.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/CAD/META/meta_cad_fi_hist_denom_social.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/CAD/META/meta_registro_fundo.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/CAD/META/meta_cad_fi_hist_taxa_perfm.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/CAD/META/meta_cad_fi_hist_gestor.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/CAD/META/meta_cad_fi_hist_exerc_social.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/CAD/DADOS/cad_fi_hist_custodiante.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/CAD/DADOS/registro_subclasse.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/CAD/DADOS/registro_fundo.csv: ISO-8859 text, with very long lines (377)
+./scripts_dados_cvm/../dados/CAD/DADOS/cad_fi_hist_diretor_resp.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/CAD/DADOS/cad_fi.csv: ISO-8859 text, with very long lines (474)
+./scripts_dados_cvm/../dados/CAD/DADOS/cad_fi_hist_fic.csv: ASCII text
+./scripts_dados_cvm/../dados/CAD/DADOS/cad_fi_hist_auditor.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/CAD/DADOS/cad_fi_hist_rentab.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/CAD/DADOS/cad_fi_hist_condom.csv: ASCII text
+./scripts_dados_cvm/../dados/CAD/DADOS/cad_fi_hist_admin.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/CAD/DADOS/cad_fi_hist_gestor.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/CAD/DADOS/cad_fi_hist_trib_lprazo.csv: ASCII text
+./scripts_dados_cvm/../dados/CAD/DADOS/cad_fi_hist_controlador.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/CAD/DADOS/cad_fi_hist_denom_comerc.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/CAD/DADOS/cad_fi_hist_sit.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/CAD/DADOS/cad_fi_hist_exerc_social.csv: ASCII text
+./scripts_dados_cvm/../dados/CAD/DADOS/cad_fi_hist_denom_social.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/CAD/DADOS/cad_fi_hist_taxa_adm.csv: ISO-8859 text, with very long lines (435)
+./scripts_dados_cvm/../dados/CAD/DADOS/cad_fi_hist_taxa_perfm.csv: ISO-8859 text, with very long lines (455)
+./scripts_dados_cvm/../dados/CAD/DADOS/cad_fi_hist_classe.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/CAD/DADOS/cad_fi_hist_publico_alvo.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/CAD/DADOS/registro_classe.csv: ISO-8859 text, with very long lines (471)
+./scripts_dados_cvm/../dados/CAD/DADOS/cad_fi_hist_exclusivo.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/META/meta_inf_diario_fi.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202212.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202101.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202112.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202105.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202310.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202405.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202411.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202208.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202409.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202306.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202301.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202507.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202308.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202203.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202401.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202205.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202408.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202302.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202206.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202508.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202502.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202311.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202207.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202501.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202110.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202307.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202103.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202407.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202108.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202412.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202104.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202406.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202211.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202102.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202303.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202304.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202106.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201603.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201608.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_202001.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201209.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_2004.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200511.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200612.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201212.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201306.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201912.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_202008.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200803.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201401.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_202009.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201307.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201006.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201812.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200802.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200606.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201802.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201302.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201712.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200809.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200701.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201607.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_2003.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201407.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201002.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201709.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201808.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201402.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200909.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200805.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200607.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201505.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201809.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201503.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200605.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201107.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201510.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201103.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200710.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200702.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200704.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200712.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201304.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200505.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201610.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201106.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200609.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201805.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201312.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201611.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201810.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200908.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201405.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201711.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200810.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200501.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200705.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201308.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200911.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201504.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201508.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_202005.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201210.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201310.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200903.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201202.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201907.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201911.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200507.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201506.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201804.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200904.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201305.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201110.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201211.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200807.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200601.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200910.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201707.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201010.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201910.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201311.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200801.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200703.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200608.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201109.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201710.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201403.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201108.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200502.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201005.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201705.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201206.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201905.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201301.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201412.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200902.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201908.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201501.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_202004.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200708.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200512.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201208.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201203.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200906.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201303.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201702.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201012.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201701.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201903.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200901.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201104.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201803.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_202002.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201502.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200611.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201404.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201101.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201601.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201606.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201409.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201009.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_202003.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200604.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_2002.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201411.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201201.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200804.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201408.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200812.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201001.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201111.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201708.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200707.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201906.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201007.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201011.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200912.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201806.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201207.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201801.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200509.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201807.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201509.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201909.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200603.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_202010.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201112.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200602.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200709.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201205.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201602.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201703.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201604.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201309.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200808.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201512.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201605.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200711.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_202012.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201410.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201204.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200610.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_202006.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200811.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201704.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201004.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201706.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201904.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201511.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200503.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201105.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200506.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200905.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201406.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_202007.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200508.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200504.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201609.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201507.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201003.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201102.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_2000.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201811.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201902.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_202011.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201612.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201008.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_201901.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200907.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_2001.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200806.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200706.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/HIST/inf_diario_fi_200510.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202305.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202404.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202204.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202309.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202111.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202410.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202505.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202210.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202201.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202506.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202402.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202209.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202504.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202109.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202202.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202403.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202503.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202107.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/INF_DIARIO/DADOS/inf_diario_fi_202312.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/EXTRATO/META/meta_extrato_fi.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/EXTRATO/DADOS/extrato_fi_2025.csv: ISO-8859 text, with very long lines (1957)
+./scripts_dados_cvm/../dados/DOC/EXTRATO/DADOS/extrato_fi.csv: ISO-8859 text, with very long lines (1957)
+./scripts_dados_cvm/../dados/DOC/EXTRATO/DADOS/extrato_fi_2022.csv: ISO-8859 text, with very long lines (1957)
+./scripts_dados_cvm/../dados/DOC/EXTRATO/DADOS/extrato_fi_2018.csv: ISO-8859 text, with very long lines (1934)
+./scripts_dados_cvm/../dados/DOC/EXTRATO/DADOS/extrato_fi_2024.csv: ISO-8859 text, with very long lines (1957)
+./scripts_dados_cvm/../dados/DOC/EXTRATO/DADOS/extrato_fi_2019.csv: ISO-8859 text, with very long lines (1934)
+./scripts_dados_cvm/../dados/DOC/EXTRATO/DADOS/extrato_fi_2020.csv: ISO-8859 text, with very long lines (1957)
+./scripts_dados_cvm/../dados/DOC/EXTRATO/DADOS/extrato_fi_2015.csv: ISO-8859 text, with very long lines (1934)
+./scripts_dados_cvm/../dados/DOC/EXTRATO/DADOS/extrato_fi_2017.csv: ISO-8859 text, with very long lines (1934)
+./scripts_dados_cvm/../dados/DOC/EXTRATO/DADOS/extrato_fi_2023.csv: ISO-8859 text, with very long lines (1957)
+./scripts_dados_cvm/../dados/DOC/EXTRATO/DADOS/extrato_fi_2021.csv: ISO-8859 text, with very long lines (1957)
+./scripts_dados_cvm/../dados/DOC/EXTRATO/DADOS/extrato_fi_2016.csv: ISO-8859 text, with very long lines (1934)
+./scripts_dados_cvm/../dados/DOC/CDA/META/meta_cda_fi_BLC_5.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/META/meta_cda_fi_BLC_8.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/META/meta_cda_fi_BLC_7.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/META/meta_cda_fi_PL.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/META/meta_cda_fi_BLC_6.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/META/meta_cda_fi_BLC_4.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/META/meta_cda_fi_BLC_3.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/META/meta_cda_fi_BLC_2.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/META/meta_cda_fiim_CONFID.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/META/meta_cda_fi_CONFID.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/META/meta_cda_fiim.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/META/meta_cda_fi_BLC_1.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_1_202501.csv: ISO-8859 text, with very long lines (354)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_7_202308.csv: ISO-8859 text, with very long lines (411)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_4_202305.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_202506.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_1_202406.csv: ISO-8859 text, with very long lines (327)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_CONFID_202412.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_202407.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_202311.csv: ISO-8859 text, with very long lines (367)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_5_202304.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_3_202309.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_5_202412.csv: ISO-8859 text, with very long lines (395)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_3_202305.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_7_202303.csv: ISO-8859 text, with very long lines (411)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_8_202406.csv: ISO-8859 text, with very long lines (392)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_2_202311.csv: ISO-8859 text, with very long lines (383)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_4_202311.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_PL_202402.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_6_202501.csv: ISO-8859 text, with very long lines (429)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_3_202410.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_4_202506.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_1_202404.csv: ISO-8859 text, with very long lines (338)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_202305.csv: ISO-8859 text, with very long lines (367)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_1_202503.csv: ISO-8859 text, with very long lines (353)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_2_202303.csv: ISO-8859 text, with very long lines (368)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_4_202308.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_3_202501.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_2_202406.csv: ISO-8859 text, with very long lines (387)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_3_202404.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_2_202301.csv: ISO-8859 text, with very long lines (371)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_1_202305.csv: ISO-8859 text, with very long lines (338)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_8_202304.csv: ISO-8859 text, with very long lines (369)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_CONFID_202410.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_8_202412.csv: ISO-8859 text, with very long lines (425)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_1_202308.csv: ISO-8859 text, with very long lines (334)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_4_202410.csv: ISO-8859 text, with very long lines (324)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_2_202307.csv: ISO-8859 text, with very long lines (382)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_3_202302.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_CONFID_202501.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_202405.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_1_202403.csv: ISO-8859 text, with very long lines (338)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_3_202312.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_CONFID_202408.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_6_202402.csv: ISO-8859 text, with very long lines (429)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_5_202411.csv: ISO-8859 text, with very long lines (395)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_202306.csv: ISO-8859 text, with very long lines (367)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_5_202309.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_7_202401.csv: ISO-8859 text, with very long lines (425)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_4_202302.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_2_202405.csv: ISO-8859 text, with very long lines (387)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_6_202406.csv: ISO-8859 text, with very long lines (429)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_6_202412.csv: ISO-8859 text, with very long lines (429)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_CONFID_202406.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_4_202301.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_7_202504.csv: ISO-8859 text, with very long lines (446)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_2_202310.csv: ISO-8859 text, with very long lines (372)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_PL_202501.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_CONFID_202501.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_2_202407.csv: ISO-8859 text, with very long lines (387)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_PL_202303.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_3_202507.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_CONFID_202506.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_4_202406.csv: ISO-8859 text, with very long lines (306)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_3_202504.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_1_202306.csv: ISO-8859 text, with very long lines (332)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_4_202408.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_3_202402.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_1_202307.csv: ISO-8859 text, with very long lines (336)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_3_202303.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_3_202401.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_7_202503.csv: ISO-8859 text, with very long lines (447)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_7_202404.csv: ISO-8859 text, with very long lines (425)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_CONFID_202505.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_1_202410.csv: ISO-8859 text, with very long lines (366)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_PL_202302.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_PL_202309.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_2_202305.csv: ISO-8859 text, with very long lines (385)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_5_202303.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_6_202404.csv: ISO-8859 text, with very long lines (429)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_5_202302.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_PL_202304.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_CONFID_202503.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_8_202309.csv: ISO-8859 text, with very long lines (369)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_7_202301.csv: ISO-8859 text, with very long lines (411)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_202503.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_CONFID_202504.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_5_202305.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_8_202312.csv: ISO-8859 text, with very long lines (369)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_8_202506.csv: ISO-8859 text, with very long lines (346)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_4_202304.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_7_202307.csv: ISO-8859 text, with very long lines (411)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_CONFID_202403.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_6_202506.csv: ISO-8859 text, with very long lines (429)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_4_202312.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_7_202506.csv: ISO-8859 text, with very long lines (446)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_3_202409.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_6_202306.csv: ISO-8859 text, with very long lines (415)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_5_202402.csv: ISO-8859 text, with very long lines (395)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_1_202304.csv: ISO-8859 text, with very long lines (336)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_CONFID_202506.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_1_202507.csv: ISO-8859 text, with very long lines (344)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_7_202411.csv: ISO-8859 text, with very long lines (447)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_CONFID_202412.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_7_202406.csv: ISO-8859 text, with very long lines (425)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_1_202504.csv: ISO-8859 text, with very long lines (357)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_5_202310.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_6_202309.csv: ISO-8859 text, with very long lines (415)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_3_202502.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_7_202305.csv: ISO-8859 text, with very long lines (411)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_6_202411.csv: ISO-8859 text, with very long lines (429)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_5_202506.csv: ISO-8859 text, with very long lines (395)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_4_202501.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_8_202503.csv: ISO-8859 text, with very long lines (425)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_4_202303.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_8_202302.csv: ISO-8859 text, with very long lines (369)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_PL_202506.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_5_202307.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_8_202411.csv: ISO-8859 text, with very long lines (425)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_6_202304.csv: ISO-8859 text, with very long lines (415)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_202310.csv: ISO-8859 text, with very long lines (367)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_7_202312.csv: ISO-8859 text, with very long lines (425)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_7_202408.csv: ISO-8859 text, with very long lines (425)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_1_202405.csv: ISO-8859 text, with very long lines (326)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_PL_202312.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_PL_202409.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_7_202502.csv: ISO-8859 text, with very long lines (447)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_202304.csv: ISO-8859 text, with very long lines (367)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_202309.csv: ISO-8859 text, with very long lines (367)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_202404.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_CONFID_202404.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_3_202407.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_CONFID_202504.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_202307.csv: ISO-8859 text, with very long lines (367)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_CONFID_202507.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_4_202404.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_7_202306.csv: ISO-8859 text, with very long lines (411)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_5_202503.csv: ISO-8859 text, with very long lines (395)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_8_202401.csv: ISO-8859 text, with very long lines (369)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_3_202406.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_7_202304.csv: ISO-8859 text, with very long lines (411)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_7_202507.csv: ISO-8859 text, with very long lines (449)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_7_202302.csv: ISO-8859 text, with very long lines (411)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_CONFID_202503.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_CONFID_202505.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_3_202408.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_202312.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_PL_202504.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_3_202307.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_6_202308.csv: ISO-8859 text, with very long lines (415)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_CONFID_202409.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_2_202507.csv: ISO-8859 text, with very long lines (396)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_PL_202406.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_4_202411.csv: ISO-8859 text, with very long lines (324)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_2_202504.csv: ISO-8859 text, with very long lines (393)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_PL_202410.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_PL_202411.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_3_202304.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_4_202310.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_2_202302.csv: ISO-8859 text, with very long lines (368)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_6_202407.csv: ISO-8859 text, with very long lines (429)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_4_202307.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_PL_202502.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_202401.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_8_202405.csv: ISO-8859 text, with very long lines (369)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_8_202504.csv: ISO-8859 text, with very long lines (425)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_CONFID_202507.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_CONFID_202502.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_CONFID_202403.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_7_202407.csv: ISO-8859 text, with very long lines (425)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_PL_202308.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_PL_202503.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_6_202310.csv: ISO-8859 text, with very long lines (415)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_2_202503.csv: ISO-8859 text, with very long lines (393)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_CONFID_202410.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_5_202312.csv: ISO-8859 text, with very long lines (395)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_8_202310.csv: ISO-8859 text, with very long lines (369)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_1_202303.csv: ISO-8859 text, with very long lines (334)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_3_202403.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_CONFID_202409.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_5_202501.csv: ISO-8859 text, with very long lines (395)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_5_202408.csv: ISO-8859 text, with very long lines (395)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_5_202407.csv: ISO-8859 text, with very long lines (395)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_8_202501.csv: ISO-8859 text, with very long lines (425)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_6_202409.csv: ISO-8859 text, with very long lines (429)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_PL_202401.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_1_202302.csv: ISO-8859 text, with very long lines (332)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_5_202308.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_3_202503.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_6_202502.csv: ISO-8859 text, with very long lines (429)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_202303.csv: ISO-8859 text, with very long lines (367)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_6_202505.csv: ISO-8859 text, with very long lines (429)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_4_202507.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_6_202507.csv: ISO-8859 text, with very long lines (429)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_3_202505.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_2_202408.csv: ISO-8859 text, with very long lines (387)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_1_202412.csv: ISO-8859 text, with very long lines (354)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_2_202506.csv: ISO-8859 text, with very long lines (396)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_4_202505.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_6_202401.csv: ISO-8859 text, with very long lines (429)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_1_202407.csv: ISO-8859 text, with very long lines (325)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_PL_202403.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_CONFID_202404.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_202409.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_1_202402.csv: ISO-8859 text, with very long lines (338)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_5_202507.csv: ISO-8859 text, with very long lines (399)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_8_202403.csv: ISO-8859 text, with very long lines (369)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_3_202405.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_5_202406.csv: ISO-8859 text, with very long lines (395)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_5_2007.csv: ISO-8859 text, with very long lines (383)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_2_2017.csv: ISO-8859 text, with very long lines (352)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_PL_2022.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_PL_2009.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_4_2011.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_7_2016.csv: ISO-8859 text, with very long lines (411)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_8_2011.csv: ISO-8859 text, with very long lines (301)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_PL_2006.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_2_2022.csv: ISO-8859 text, with very long lines (342)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_3_2022.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_1_2006.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_7_2017.csv: ISO-8859 text, with very long lines (411)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_6_2018.csv: ISO-8859 text, with very long lines (415)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_5_2013.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_8_2008.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_2_2010.csv: ISO-8859 text, with very long lines (353)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_3_2009.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_6_2011.csv: ISO-8859 text, with very long lines (415)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_PL_2015.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_PL_2007.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_5_2014.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_8_2010.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_6_2019.csv: ISO-8859 text, with very long lines (415)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_4_2006.csv: ISO-8859 text, with very long lines (313)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_4_2019.csv: ISO-8859 text, with very long lines (306)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_2_2005.csv: ISO-8859 text, with very long lines (428)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_3_2014.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fiim_2020.csv: ISO-8859 text, with very long lines (367)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_3_2011.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_2_2007.csv: ISO-8859 text, with very long lines (398)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_7_2014.csv: ISO-8859 text, with very long lines (411)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_1_2016.csv: ISO-8859 text, with very long lines (303)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fiim_2019.csv: ISO-8859 text, with very long lines (367)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_8_2018.csv: ISO-8859 text, with very long lines (345)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_2_2008.csv: ISO-8859 text, with very long lines (354)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_PL_2010.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_8_2009.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_5_2018.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_PL_2020.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_PL_2011.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_8_2006.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_6_2012.csv: ISO-8859 text, with very long lines (415)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_7_2018.csv: ISO-8859 text, with very long lines (411)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_5_2021.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fiim_2022.csv: ISO-8859 text, with very long lines (367)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_2_2006.csv: ISO-8859 text, with very long lines (366)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_4_2021.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_1_2007.csv: ISO-8859 text, with very long lines (307)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_1_2022.csv: ISO-8859 text, with very long lines (310)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_PL_2017.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_6_2021.csv: ISO-8859 text, with very long lines (415)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_2_2020.csv: ISO-8859 text, with very long lines (351)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_2_2014.csv: ISO-8859 text, with very long lines (352)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_4_2009.csv: ISO-8859 text, with very long lines (302)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_8_2005.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_5_2017.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_1_2013.csv: ISO-8859 text, with very long lines (308)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_1_2021.csv: ISO-8859 text, with very long lines (301)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_PL_2005.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_7_2008.csv: ISO-8859 text, with very long lines (411)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_1_2020.csv: ISO-8859 text, with very long lines (311)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_2_2012.csv: ISO-8859 text, with very long lines (353)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_4_2012.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_4_2013.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_5_2015.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_7_2009.csv: ISO-8859 text, with very long lines (411)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_4_2005.csv: ISO-8859 text, with very long lines (334)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_7_2019.csv: ISO-8859 text, with very long lines (411)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_8_2016.csv: ISO-8859 text, with very long lines (343)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_2_2015.csv: ISO-8859 text, with very long lines (353)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fiim_2021.csv: ISO-8859 text, with very long lines (367)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_PL_2013.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_PL_2021.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_6_2020.csv: ISO-8859 text, with very long lines (415)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_2_2018.csv: ISO-8859 text, with very long lines (350)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_6_2017.csv: ISO-8859 text, with very long lines (415)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_8_2014.csv: ISO-8859 text, with very long lines (309)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_4_2017.csv: ISO-8859 text, with very long lines (315)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_1_2009.csv: ISO-8859 text, with very long lines (307)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_PL_2008.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_3_2019.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_5_2019.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_PL_2016.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_6_2022.csv: ISO-8859 text, with very long lines (415)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_7_2012.csv: ISO-8859 text, with very long lines (411)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_3_2018.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_3_2007.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_8_2019.csv: ISO-8859 text, with very long lines (322)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_8_2015.csv: ISO-8859 text, with very long lines (348)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_6_2014.csv: ISO-8859 text, with very long lines (415)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_1_2015.csv: ISO-8859 text, with very long lines (301)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fiim_2018.csv: ISO-8859 text, with very long lines (367)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_6_2016.csv: ISO-8859 text, with very long lines (415)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_2_2016.csv: ISO-8859 text, with very long lines (352)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_8_2022.csv: ISO-8859 text, with very long lines (301)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_3_2008.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_2_2013.csv: ISO-8859 text, with very long lines (353)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_1_2011.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_5_2022.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_5_2009.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_3_2013.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_1_2008.csv: ISO-8859 text, with very long lines (310)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_7_2022.csv: ISO-8859 text, with very long lines (411)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_5_2012.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_1_2017.csv: ISO-8859 text, with very long lines (305)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_6_2007.csv: ISO-8859 text, with very long lines (415)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_6_2010.csv: ISO-8859 text, with very long lines (415)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_7_2020.csv: ISO-8859 text, with very long lines (411)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_3_2020.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_8_2017.csv: ISO-8859 text, with very long lines (346)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_4_2015.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_1_2019.csv: ISO-8859 text, with very long lines (305)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_3_2006.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_7_2015.csv: ISO-8859 text, with very long lines (411)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_4_2018.csv: ISO-8859 text, with very long lines (306)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_6_2013.csv: ISO-8859 text, with very long lines (415)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_4_2020.csv: ISO-8859 text, with very long lines (316)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_5_2020.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_5_2010.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_3_2005.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_1_2018.csv: ISO-8859 text, with very long lines (302)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_1_2014.csv: ISO-8859 text, with very long lines (302)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_7_2010.csv: ISO-8859 text, with very long lines (411)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_3_2016.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_6_2015.csv: ISO-8859 text, with very long lines (415)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_3_2012.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_1_2012.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_8_2013.csv: ISO-8859 text, with very long lines (309)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_7_2013.csv: ISO-8859 text, with very long lines (411)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_7_2011.csv: ISO-8859 text, with very long lines (411)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_7_2021.csv: ISO-8859 text, with very long lines (411)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_2_2019.csv: ISO-8859 text, with very long lines (351)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_4_2010.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_5_2011.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_6_2009.csv: ISO-8859 text, with very long lines (415)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_8_2021.csv: ISO-8859 text, with very long lines (309)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_4_2007.csv: ISO-8859 text, with very long lines (313)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_1_2005.csv: ISO-8859 text, with very long lines (321)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_2_2011.csv: ISO-8859 text, with very long lines (353)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_4_2022.csv: ISO-8859 text, with very long lines (302)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_PL_2018.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_1_2010.csv: ISO-8859 text, with very long lines (312)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_PL_2019.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_8_2020.csv: ISO-8859 text, with very long lines (309)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_3_2017.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_4_2008.csv: ISO-8859 text, with very long lines (329)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_2_2009.csv: ISO-8859 text, with very long lines (353)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_8_2007.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_5_2008.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_4_2016.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_PL_2012.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_6_2008.csv: ISO-8859 text, with very long lines (415)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_4_2014.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_7_2007.csv: ISO-8859 text, with very long lines (411)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_3_2015.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_2_2021.csv: ISO-8859 text, with very long lines (345)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_5_2016.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_3_2010.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_PL_2014.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_3_2021.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/HIST/cda_fi_BLC_8_2012.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_CONFID_202407.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_202403.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_202308.csv: ISO-8859 text, with very long lines (367)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_CONFID_202402.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_1_202408.csv: ISO-8859 text, with very long lines (334)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_5_202502.csv: ISO-8859 text, with very long lines (395)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_5_202504.csv: ISO-8859 text, with very long lines (395)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_8_202306.csv: ISO-8859 text, with very long lines (369)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_PL_202407.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_202505.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_2_202412.csv: ISO-8859 text, with very long lines (358)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_7_202405.csv: ISO-8859 text, with very long lines (425)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_8_202407.csv: ISO-8859 text, with very long lines (392)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_3_202506.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_CONFID_202502.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_202302.csv: ISO-8859 text, with very long lines (367)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_CONFID_202405.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_7_202412.csv: ISO-8859 text, with very long lines (448)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_5_202401.csv: ISO-8859 text, with very long lines (395)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_PL_202505.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_6_202408.csv: ISO-8859 text, with very long lines (429)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_8_202507.csv: ISO-8859 text, with very long lines (346)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_4_202403.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_PL_202306.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_7_202501.csv: ISO-8859 text, with very long lines (443)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_202501.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_4_202401.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_CONFID_202402.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_5_202306.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_7_202402.csv: ISO-8859 text, with very long lines (425)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_6_202311.csv: ISO-8859 text, with very long lines (415)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_1_202502.csv: ISO-8859 text, with very long lines (356)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_8_202502.csv: ISO-8859 text, with very long lines (425)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_1_202310.csv: ISO-8859 text, with very long lines (331)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_202402.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_202410.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_5_202311.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_2_202304.csv: ISO-8859 text, with very long lines (368)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_CONFID_202405.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_4_202504.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_1_202301.csv: ISO-8859 text, with very long lines (329)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_4_202407.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_8_202402.csv: ISO-8859 text, with very long lines (369)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_PL_202412.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_4_202306.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_1_202506.csv: ISO-8859 text, with very long lines (341)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_5_202410.csv: ISO-8859 text, with very long lines (395)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_1_202505.csv: ISO-8859 text, with very long lines (339)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_2_202501.csv: ISO-8859 text, with very long lines (358)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_2_202404.csv: ISO-8859 text, with very long lines (385)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_5_202405.csv: ISO-8859 text, with very long lines (395)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_PL_202405.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_202301.csv: ISO-8859 text, with very long lines (367)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_8_202307.csv: ISO-8859 text, with very long lines (369)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_7_202310.csv: ISO-8859 text, with very long lines (411)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_1_202401.csv: ISO-8859 text, with very long lines (334)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_8_202311.csv: ISO-8859 text, with very long lines (369)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_202411.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_1_202409.csv: ISO-8859 text, with very long lines (334)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_3_202308.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_CONFID_202407.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_CONFID_202411.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_3_202310.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_2_202403.csv: ISO-8859 text, with very long lines (383)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_8_202404.csv: ISO-8859 text, with very long lines (369)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_4_202405.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_3_202301.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_6_202504.csv: ISO-8859 text, with very long lines (429)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_CONFID_202406.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_1_202311.csv: ISO-8859 text, with very long lines (336)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_5_202403.csv: ISO-8859 text, with very long lines (395)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_8_202303.csv: ISO-8859 text, with very long lines (369)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_202408.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_7_202409.csv: ISO-8859 text, with very long lines (425)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_8_202505.csv: ISO-8859 text, with very long lines (395)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_PL_202301.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_2_202309.csv: ISO-8859 text, with very long lines (382)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_5_202301.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_202507.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_6_202305.csv: ISO-8859 text, with very long lines (415)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_1_202309.csv: ISO-8859 text, with very long lines (334)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_PL_202311.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_6_202302.csv: ISO-8859 text, with very long lines (415)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_4_202503.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_PL_202404.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_7_202309.csv: ISO-8859 text, with very long lines (411)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_8_202305.csv: ISO-8859 text, with very long lines (369)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_5_202409.csv: ISO-8859 text, with very long lines (395)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_2_202308.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_1_202411.csv: ISO-8859 text, with very long lines (355)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_PL_202408.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_4_202402.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_3_202412.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_3_202306.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_2_202409.csv: ISO-8859 text, with very long lines (386)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_CONFID_202408.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_2_202505.csv: ISO-8859 text, with very long lines (396)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_8_202410.csv: ISO-8859 text, with very long lines (425)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_4_202309.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_1_202312.csv: ISO-8859 text, with very long lines (336)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_2_202312.csv: ISO-8859 text, with very long lines (384)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_202412.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_2_202402.csv: ISO-8859 text, with very long lines (373)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_7_202311.csv: ISO-8859 text, with very long lines (411)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_8_202409.csv: ISO-8859 text, with very long lines (392)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_PL_202310.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_6_202307.csv: ISO-8859 text, with very long lines (415)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_3_202411.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_6_202312.csv: ISO-8859 text, with very long lines (429)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_7_202505.csv: ISO-8859 text, with very long lines (446)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_6_202503.csv: ISO-8859 text, with very long lines (429)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_4_202412.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_6_202403.csv: ISO-8859 text, with very long lines (429)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_2_202410.csv: ISO-8859 text, with very long lines (348)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_6_202301.csv: ISO-8859 text, with very long lines (415)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_2_202401.csv: ISO-8859 text, with very long lines (384)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_2_202411.csv: ISO-8859 text, with very long lines (358)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_202502.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_6_202303.csv: ISO-8859 text, with very long lines (415)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_4_202409.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_6_202410.csv: ISO-8859 text, with very long lines (429)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_2_202502.csv: ISO-8859 text, with very long lines (347)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_202504.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_PL_202305.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_8_202301.csv: ISO-8859 text, with very long lines (373)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_4_202502.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_7_202410.csv: ISO-8859 text, with very long lines (425)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_6_202405.csv: ISO-8859 text, with very long lines (429)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_8_202308.csv: ISO-8859 text, with very long lines (369)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_PL_202307.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_2_202306.csv: ISO-8859 text, with very long lines (385)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_PL_202507.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_CONFID_202411.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fiim_202406.csv: ISO-8859 text, with very long lines (381)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_7_202403.csv: ISO-8859 text, with very long lines (425)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_3_202311.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_5_202404.csv: ISO-8859 text, with very long lines (395)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_5_202505.csv: ISO-8859 text, with very long lines (395)
+./scripts_dados_cvm/../dados/DOC/CDA/DADOS/cda_fi_BLC_8_202408.csv: ISO-8859 text, with very long lines (392)
+./scripts_dados_cvm/../dados/DOC/BALANCETE/META/meta_balancete_fi.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/META/meta_balancete_fi.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202001.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202112.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201906.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202008.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201707.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202311.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201708.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201803.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201503.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202104.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202010.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201706.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202506.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201609.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202312.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201902.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202205.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202109.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201505.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202403.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202101.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202212.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202407.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202108.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201804.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201710.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201911.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202502.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202208.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201807.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201612.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202304.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202410.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202011.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202507.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201908.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202412.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201711.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202107.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202207.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201510.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201502.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202302.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201907.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201709.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201701.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202203.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202305.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202110.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202102.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201504.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201812.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201805.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201903.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201512.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202009.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201705.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201501.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201607.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201509.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201608.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202504.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202301.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202202.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202204.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202106.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201703.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201904.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202503.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201704.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202505.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201004.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201412.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201108.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201207.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200710.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200606.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200701.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200809.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200504.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201206.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201405.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200512.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201306.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200503.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200604.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201312.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200505.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200708.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200712.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200601.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200509.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200812.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200510.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201305.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201311.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200911.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201008.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200508.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200705.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200702.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200806.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200902.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200909.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200811.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200906.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201210.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201107.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201407.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200610.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200907.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200605.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200801.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201105.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201204.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201402.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200709.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201101.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201001.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201411.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201106.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200803.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201304.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200904.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200703.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200804.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201110.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201303.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200501.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201104.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201301.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200611.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200609.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201208.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201404.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201308.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200608.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201005.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201212.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200912.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201406.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201201.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201409.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201002.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200711.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201203.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201307.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200607.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200502.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201410.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200506.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200707.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200808.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200603.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201007.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200805.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201011.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201009.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201112.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201211.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201010.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201205.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200612.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201202.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200810.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200706.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201310.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201403.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200905.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201309.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201102.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200602.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200704.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200507.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201003.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201401.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201302.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200903.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201103.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201012.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200910.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200807.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201109.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200511.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200901.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200908.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_200802.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201408.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201111.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201209.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/HIST/balancete_fi_201006.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202005.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202501.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202210.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202309.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202012.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202007.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202405.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201511.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201606.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202306.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201712.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201506.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201905.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202209.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202307.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202310.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202206.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201811.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202409.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201601.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201801.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202411.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202003.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201702.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202401.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202004.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201810.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201809.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201901.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201806.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202408.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202211.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201910.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202006.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202105.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201603.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201610.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202308.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202303.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202111.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201909.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202406.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202404.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202201.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201808.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201604.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201605.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201507.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202103.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202402.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201802.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_202002.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201602.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201508.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201611.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/BALANCETE/DADOS/balancete_fi_201912.csv: ASCII text
+./scripts_dados_cvm/../dados/DOC/EVENTUAL/META/meta_eventual_fi.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/EVENTUAL/DADOS/eventual_fi_2005.csv: ISO-8859 text, with very long lines (304)
+./scripts_dados_cvm/../dados/DOC/EVENTUAL/DADOS/eventual_fi_2010.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/EVENTUAL/DADOS/eventual_fi_2012.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/EVENTUAL/DADOS/eventual_fi_2014.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/EVENTUAL/DADOS/eventual_fi_2025.csv: ISO-8859 text, with very long lines (339)
+./scripts_dados_cvm/../dados/DOC/EVENTUAL/DADOS/eventual_fi_2015.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/EVENTUAL/DADOS/eventual_fi_2008.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/EVENTUAL/DADOS/eventual_fi_2023.csv: ISO-8859 text, with very long lines (320)
+./scripts_dados_cvm/../dados/DOC/EVENTUAL/DADOS/eventual_fi_2022.csv: ISO-8859 text, with very long lines (320)
+./scripts_dados_cvm/../dados/DOC/EVENTUAL/DADOS/eventual_fi_2007.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/EVENTUAL/DADOS/eventual_fi_2018.csv: ISO-8859 text, with very long lines (320)
+./scripts_dados_cvm/../dados/DOC/EVENTUAL/DADOS/eventual_fi_2013.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/EVENTUAL/DADOS/eventual_fi_2024.csv: ISO-8859 text, with very long lines (334)
+./scripts_dados_cvm/../dados/DOC/EVENTUAL/DADOS/eventual_fi_2016.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/EVENTUAL/DADOS/eventual_fi_2017.csv: ISO-8859 text, with very long lines (320)
+./scripts_dados_cvm/../dados/DOC/EVENTUAL/DADOS/eventual_fi_2006.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/EVENTUAL/DADOS/eventual_fi_2009.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/EVENTUAL/DADOS/eventual_fi_2021.csv: ISO-8859 text, with very long lines (320)
+./scripts_dados_cvm/../dados/DOC/EVENTUAL/DADOS/eventual_fi_2020.csv: ISO-8859 text, with very long lines (320)
+./scripts_dados_cvm/../dados/DOC/EVENTUAL/DADOS/eventual_fi_2019.csv: ISO-8859 text, with very long lines (320)
+./scripts_dados_cvm/../dados/DOC/EVENTUAL/DADOS/eventual_fi_2011.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/META/meta_perfil_mensal_fi.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202402.csv: ISO-8859 text, with very long lines (2717)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202107.csv: ISO-8859 text, with very long lines (2203)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202009.csv: ISO-8859 text, with very long lines (4489)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202305.csv: ISO-8859 text, with very long lines (2203)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202109.csv: ISO-8859 text, with very long lines (4464)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202401.csv: ISO-8859 text, with very long lines (2226)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_201904.csv: ISO-8859 text, with very long lines (2409)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202210.csv: ISO-8859 text, with very long lines (3226)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202307.csv: ISO-8859 text, with very long lines (4843)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202410.csv: ISO-8859 text, with very long lines (4542)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202301.csv: ISO-8859 text, with very long lines (4066)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202106.csv: ISO-8859 text, with very long lines (2203)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202409.csv: ISO-8859 text, with very long lines (5103)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202304.csv: ISO-8859 text, with very long lines (3361)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202112.csv: ISO-8859 text, with very long lines (2736)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202303.csv: ISO-8859 text, with very long lines (4496)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202504.csv: ISO-8859 text, with very long lines (4650)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202001.csv: ISO-8859 text, with very long lines (2203)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202206.csv: Non-ISO extended-ASCII text, with very long lines (4446)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202104.csv: ISO-8859 text, with very long lines (2381)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202102.csv: ISO-8859 text, with very long lines (2662)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202208.csv: ISO-8859 text, with very long lines (4939)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202506.csv: ISO-8859 text, with very long lines (4503)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202205.csv: ISO-8859 text, with very long lines (4418)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202202.csv: ISO-8859 text, with very long lines (4954)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202005.csv: ISO-8859 text, with very long lines (2798)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202212.csv: ISO-8859 text, with very long lines (4495)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202108.csv: ISO-8859 text, with very long lines (6183)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202211.csv: ISO-8859 text, with very long lines (2203)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202006.csv: ISO-8859 text, with very long lines (2390)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_201907.csv: ISO-8859 text, with very long lines (4614)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_201910.csv: ISO-8859 text, with very long lines (2203)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_201905.csv: ISO-8859 text, with very long lines (4444)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202308.csv: ISO-8859 text, with very long lines (6079)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202204.csv: ISO-8859 text, with very long lines (2557)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202406.csv: ISO-8859 text, with very long lines (3527)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202411.csv: ISO-8859 text, with very long lines (4075)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202004.csv: ISO-8859 text, with very long lines (3721)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202103.csv: ISO-8859 text, with very long lines (4576)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202111.csv: ISO-8859 text, with very long lines (2309)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202505.csv: ISO-8859 text, with very long lines (8552)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202003.csv: ISO-8859 text, with very long lines (3922)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202405.csv: ISO-8859 text, with very long lines (4938)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_201903.csv: ISO-8859 text, with very long lines (2317)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_201909.csv: ISO-8859 text, with very long lines (3539)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202010.csv: ISO-8859 text, with very long lines (2869)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202412.csv: ISO-8859 text, with very long lines (4755)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202403.csv: ISO-8859 text, with very long lines (4752)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_201911.csv: ISO-8859 text, with very long lines (3092)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202404.csv: ISO-8859 text, with very long lines (4645)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_201906.csv: ISO-8859 text, with very long lines (7320)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202207.csv: ISO-8859 text, with very long lines (3286)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202408.csv: ISO-8859 text, with very long lines (4641)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202007.csv: ISO-8859 text, with very long lines (4467)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202310.csv: ISO-8859 text, with very long lines (4966)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_201908.csv: ISO-8859 text, with very long lines (2716)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202101.csv: ISO-8859 text, with very long lines (3709)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202002.csv: ISO-8859 text, with very long lines (2203)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202311.csv: ISO-8859 text, with very long lines (2203)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202209.csv: ISO-8859 text, with very long lines (3230)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202105.csv: ISO-8859 text, with very long lines (2203)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202503.csv: ISO-8859 text, with very long lines (4545)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_201912.csv: ISO-8859 text, with very long lines (5471)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202507.csv: ISO-8859 text, with very long lines (2226)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202502.csv: ISO-8859 text, with very long lines (7557)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_201901.csv: ISO-8859 text, with very long lines (4170)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202302.csv: ISO-8859 text, with very long lines (3366)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_201902.csv: ISO-8859 text, with very long lines (2750)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202012.csv: ISO-8859 text, with very long lines (3659)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202501.csv: ISO-8859 text, with very long lines (4989)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202008.csv: ISO-8859 text, with very long lines (4617)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202306.csv: ISO-8859 text, with very long lines (4760)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202407.csv: ISO-8859 text, with very long lines (2226)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202203.csv: ISO-8859 text, with very long lines (3132)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202312.csv: ISO-8859 text, with very long lines (2226)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202201.csv: ISO-8859 text, with very long lines (4053)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202011.csv: ISO-8859 text, with very long lines (4537)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202309.csv: ISO-8859 text, with very long lines (4500)
+./scripts_dados_cvm/../dados/DOC/PERFIL_MENSAL/DADOS/perfil_mensal_fi_202110.csv: ISO-8859 text, with very long lines (4543)
+./scripts_dados_cvm/../dados/DOC/LAMINA/META/meta_lamina_fi_rentab_mes.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/META/meta_lamina_fi_carteira.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/META/meta_lamina_fi.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/META/meta_lamina_fi_rentab_ano.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202203.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202209.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202410.csv: ISO-8859 text, with very long lines (387)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202106.csv: ISO-8859 text, with very long lines (766)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202207.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202201.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202405.csv: ISO-8859 text, with very long lines (770)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202106.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202008.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202010.csv: ISO-8859 text, with very long lines (3284)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_201911.csv: ISO-8859 text, with very long lines (3356)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202111.csv: ISO-8859 text, with very long lines (3284)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202112.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202101.csv: ISO-8859 text, with very long lines (764)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202305.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202003.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202406.csv: ISO-8859 text, with very long lines (766)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202107.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202111.csv: ISO-8859 text, with very long lines (766)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_201903.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202203.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202501.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202005.csv: ISO-8859 text, with very long lines (761)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202507.csv: ISO-8859 text, with very long lines (385)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202009.csv: ISO-8859 text, with very long lines (3284)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202212.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202308.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202406.csv: ISO-8859 text, with very long lines (770)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_201903.csv: ISO-8859 text, with very long lines (760)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202209.csv: ISO-8859 text, with very long lines (3284)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202303.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202211.csv: ISO-8859 text, with very long lines (3284)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_201909.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202212.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202506.csv: ISO-8859 text, with very long lines (391)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202502.csv: ISO-8859 text, with very long lines (4310)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202408.csv: ISO-8859 text, with very long lines (3303)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_201906.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202401.csv: ISO-8859 text, with very long lines (757)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202104.csv: ISO-8859 text, with very long lines (3284)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202405.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202507.csv: ISO-8859 text, with very long lines (391)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_201912.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_201911.csv: ISO-8859 text, with very long lines (760)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_201904.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202307.csv: ISO-8859 text, with very long lines (767)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202008.csv: ISO-8859 text, with very long lines (3353)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202308.csv: ISO-8859 text, with very long lines (3308)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202311.csv: ISO-8859 text, with very long lines (757)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202105.csv: ISO-8859 text, with very long lines (3284)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202103.csv: ISO-8859 text, with very long lines (3284)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202109.csv: ISO-8859 text, with very long lines (3284)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202301.csv: ISO-8859 text, with very long lines (3285)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202009.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202006.csv: ISO-8859 text, with very long lines (761)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202102.csv: ISO-8859 text, with very long lines (766)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202105.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202501.csv: ISO-8859 text, with very long lines (376)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202307.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202305.csv: ISO-8859 text, with very long lines (3285)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202410.csv: ISO-8859 text, with very long lines (375)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202208.csv: ISO-8859 text, with very long lines (765)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202407.csv: ISO-8859 text, with very long lines (770)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202403.csv: ISO-8859 text, with very long lines (753)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202502.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202202.csv: ISO-8859 text, with very long lines (3284)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202506.csv: ISO-8859 text, with very long lines (4320)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202111.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202304.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202210.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202107.csv: ISO-8859 text, with very long lines (3284)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202406.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202310.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202507.csv: ISO-8859 text, with very long lines (4321)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202411.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202009.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202205.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202306.csv: ISO-8859 text, with very long lines (3285)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_201901.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202212.csv: ISO-8859 text, with very long lines (767)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202503.csv: ISO-8859 text, with very long lines (391)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202310.csv: ISO-8859 text, with very long lines (749)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202110.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202110.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_201907.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_201907.csv: ISO-8859 text, with very long lines (760)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_201909.csv: ISO-8859 text, with very long lines (3356)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202112.csv: ISO-8859 text, with very long lines (3285)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202310.csv: ISO-8859 text, with very long lines (3308)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202206.csv: ISO-8859 text, with very long lines (765)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_201904.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202409.csv: ISO-8859 text, with very long lines (770)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202210.csv: ISO-8859 text, with very long lines (767)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202204.csv: ISO-8859 text, with very long lines (765)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202103.csv: ISO-8859 text, with very long lines (766)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202104.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_201906.csv: ISO-8859 text, with very long lines (760)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202312.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202412.csv: ISO-8859 text, with very long lines (4239)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202505.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202411.csv: ISO-8859 text, with very long lines (375)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202208.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202502.csv: ISO-8859 text, with very long lines (387)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202104.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202501.csv: ISO-8859 text, with very long lines (4238)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202503.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202011.csv: ISO-8859 text, with very long lines (766)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_201904.csv: ISO-8859 text, with very long lines (3356)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202204.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202010.csv: ISO-8859 text, with very long lines (761)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202401.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_201907.csv: ISO-8859 text, with very long lines (3356)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202003.csv: ISO-8859 text, with very long lines (761)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202407.csv: ISO-8859 text, with very long lines (766)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202408.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_201905.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202210.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202001.csv: ISO-8859 text, with very long lines (760)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202410.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202311.csv: ISO-8859 text, with very long lines (3312)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_201908.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_201910.csv: ISO-8859 text, with very long lines (760)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202101.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202305.csv: ISO-8859 text, with very long lines (767)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_201901.csv: ISO-8859 text, with very long lines (760)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202408.csv: ISO-8859 text, with very long lines (770)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202309.csv: ISO-8859 text, with very long lines (3308)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202106.csv: ISO-8859 text, with very long lines (3284)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_201902.csv: ISO-8859 text, with very long lines (3190)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202207.csv: ISO-8859 text, with very long lines (765)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202207.csv: ISO-8859 text, with very long lines (3284)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202103.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202404.csv: ISO-8859 text, with very long lines (753)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202306.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202012.csv: ISO-8859 text, with very long lines (764)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202301.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202210.csv: ISO-8859 text, with very long lines (3284)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202108.csv: ISO-8859 text, with very long lines (766)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202404.csv: ISO-8859 text, with very long lines (757)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202204.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202406.csv: ISO-8859 text, with very long lines (3313)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202211.csv: ISO-8859 text, with very long lines (767)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202403.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202211.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202505.csv: ISO-8859 text, with very long lines (391)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202111.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202403.csv: ISO-8859 text, with very long lines (3312)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202010.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202303.csv: ISO-8859 text, with very long lines (767)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202208.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202505.csv: ISO-8859 text, with very long lines (4320)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202503.csv: ISO-8859 text, with very long lines (4320)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202410.csv: ISO-8859 text, with very long lines (4240)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202503.csv: ISO-8859 text, with very long lines (378)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202302.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202006.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202312.csv: ISO-8859 text, with very long lines (3312)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202206.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202110.csv: ISO-8859 text, with very long lines (766)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202004.csv: ISO-8859 text, with very long lines (761)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_201901.csv: ISO-8859 text, with very long lines (3190)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202201.csv: ISO-8859 text, with very long lines (3284)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202204.csv: ISO-8859 text, with very long lines (3284)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202008.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202109.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202506.csv: ISO-8859 text, with very long lines (385)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202411.csv: ISO-8859 text, with very long lines (387)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202102.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202409.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_201909.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202306.csv: ISO-8859 text, with very long lines (767)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202408.csv: ISO-8859 text, with very long lines (766)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_201901.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202011.csv: ISO-8859 text, with very long lines (764)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202506.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_201910.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_201907.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202205.csv: ISO-8859 text, with very long lines (765)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_201910.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_201906.csv: ISO-8859 text, with very long lines (3356)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202207.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_201911.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202005.csv: ISO-8859 text, with very long lines (3284)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202403.csv: ISO-8859 text, with very long lines (757)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202005.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_201912.csv: ISO-8859 text, with very long lines (760)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_201905.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202209.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202505.csv: ISO-8859 text, with very long lines (385)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202110.csv: ISO-8859 text, with very long lines (3284)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202302.csv: ISO-8859 text, with very long lines (767)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202312.csv: ISO-8859 text, with very long lines (757)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201508.csv: ISO-8859 text, with very long lines (782)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201504.csv: ISO-8859 text, with very long lines (2218)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201605.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201810.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201405.csv: ISO-8859 text, with very long lines (2144)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201502.csv: ISO-8859 text, with very long lines (779)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201411.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201807.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201505.csv: ISO-8859 text, with very long lines (779)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201503.csv: ISO-8859 text, with very long lines (779)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201612.csv: ISO-8859 text, with very long lines (3203)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201710.csv: ISO-8859 text, with very long lines (3216)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201402.csv: ISO-8859 text, with very long lines (2026)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201801.csv: ISO-8859 text, with very long lines (760)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201402.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201509.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201508.csv: ISO-8859 text, with very long lines (779)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201703.csv: ISO-8859 text, with very long lines (760)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201407.csv: ISO-8859 text, with very long lines (777)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201610.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201805.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201503.csv: ISO-8859 text, with very long lines (782)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201809.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201802.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201702.csv: ISO-8859 text, with very long lines (760)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201506.csv: ISO-8859 text, with very long lines (782)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201406.csv: ISO-8859 text, with very long lines (782)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201601.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201802.csv: ISO-8859 text, with very long lines (760)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201410.csv: ISO-8859 text, with very long lines (2213)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201605.csv: ISO-8859 text, with very long lines (671)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201408.csv: ISO-8859 text, with very long lines (777)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201506.csv: ISO-8859 text, with very long lines (2043)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201801.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201507.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201610.csv: ISO-8859 text, with very long lines (760)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201712.csv: ISO-8859 text, with very long lines (3217)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201808.csv: ISO-8859 text, with very long lines (760)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201711.csv: ISO-8859 text, with very long lines (3216)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201408.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201601.csv: ISO-8859 text, with very long lines (671)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201604.csv: ISO-8859 text, with very long lines (3220)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201811.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201501.csv: ISO-8859 text, with very long lines (779)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201705.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201604.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201508.csv: ISO-8859 text, with very long lines (2041)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201404.csv: ISO-8859 text, with very long lines (672)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201504.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201812.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201401.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201708.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201606.csv: ISO-8859 text, with very long lines (3260)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201707.csv: ISO-8859 text, with very long lines (3216)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201611.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201506.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201808.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201611.csv: ISO-8859 text, with very long lines (3201)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201607.csv: ISO-8859 text, with very long lines (3253)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201606.csv: ISO-8859 text, with very long lines (671)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201701.csv: ISO-8859 text, with very long lines (3383)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201805.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201603.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201601.csv: ISO-8859 text, with very long lines (3010)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201811.csv: ISO-8859 text, with very long lines (3190)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201811.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201403.csv: ISO-8859 text, with very long lines (676)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201510.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201508.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201412.csv: ISO-8859 text, with very long lines (779)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201606.csv: ISO-8859 text, with very long lines (676)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201803.csv: ISO-8859 text, with very long lines (3217)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201710.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201509.csv: ISO-8859 text, with very long lines (3010)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201504.csv: ISO-8859 text, with very long lines (779)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201705.csv: ISO-8859 text, with very long lines (760)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201512.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201610.csv: ISO-8859 text, with very long lines (3203)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201709.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201803.csv: ISO-8859 text, with very long lines (760)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201409.csv: ISO-8859 text, with very long lines (782)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201507.csv: ISO-8859 text, with very long lines (779)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201705.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201411.csv: ISO-8859 text, with very long lines (2212)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201402.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201401.csv: ISO-8859 text, with very long lines (2133)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201711.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201806.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201812.csv: ISO-8859 text, with very long lines (760)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201602.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201401.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201809.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201704.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201511.csv: ISO-8859 text, with very long lines (3010)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201607.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201412.csv: ISO-8859 text, with very long lines (782)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201602.csv: ISO-8859 text, with very long lines (676)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201407.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201701.csv: ISO-8859 text, with very long lines (760)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201510.csv: ISO-8859 text, with very long lines (761)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201511.csv: ISO-8859 text, with very long lines (761)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201809.csv: ISO-8859 text, with very long lines (760)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201503.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201804.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201807.csv: ISO-8859 text, with very long lines (3190)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201608.csv: ISO-8859 text, with very long lines (759)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201702.csv: ISO-8859 text, with very long lines (3384)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201406.csv: ISO-8859 text, with very long lines (2213)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201408.csv: ISO-8859 text, with very long lines (2214)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201406.csv: ISO-8859 text, with very long lines (777)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201707.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201511.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201407.csv: ISO-8859 text, with very long lines (2214)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201506.csv: ISO-8859 text, with very long lines (779)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201502.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201612.csv: ISO-8859 text, with very long lines (760)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201610.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201802.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201510.csv: ISO-8859 text, with very long lines (765)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201412.csv: ISO-8859 text, with very long lines (2213)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201602.csv: ISO-8859 text, with very long lines (670)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201702.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201810.csv: ISO-8859 text, with very long lines (760)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201704.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201703.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201804.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201501.csv: ISO-8859 text, with very long lines (2213)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201609.csv: ISO-8859 text, with very long lines (759)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201808.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201706.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201708.csv: ISO-8859 text, with very long lines (760)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201712.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201612.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201604.csv: ISO-8859 text, with very long lines (676)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201608.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201609.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201404.csv: ISO-8859 text, with very long lines (2082)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201602.csv: ISO-8859 text, with very long lines (3010)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201712.csv: ISO-8859 text, with very long lines (760)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201711.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201509.csv: ISO-8859 text, with very long lines (778)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201807.csv: ISO-8859 text, with very long lines (760)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201704.csv: ISO-8859 text, with very long lines (3382)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201603.csv: ISO-8859 text, with very long lines (670)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201611.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201512.csv: ISO-8859 text, with very long lines (3010)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201806.csv: ISO-8859 text, with very long lines (3217)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201606.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201502.csv: ISO-8859 text, with very long lines (782)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201712.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201708.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201808.csv: ISO-8859 text, with very long lines (3190)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201403.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201509.csv: ISO-8859 text, with very long lines (782)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201609.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201810.csv: ISO-8859 text, with very long lines (3190)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201702.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201510.csv: ISO-8859 text, with very long lines (3010)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201604.csv: ISO-8859 text, with very long lines (671)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201803.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201812.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201505.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201605.csv: ISO-8859 text, with very long lines (676)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201710.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201804.csv: ISO-8859 text, with very long lines (760)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201711.csv: ISO-8859 text, with very long lines (760)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201512.csv: ISO-8859 text, with very long lines (765)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201406.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201501.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201802.csv: ISO-8859 text, with very long lines (3217)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201806.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201603.csv: ISO-8859 text, with very long lines (3010)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201804.csv: ISO-8859 text, with very long lines (3217)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201410.csv: ISO-8859 text, with very long lines (779)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201412.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201704.csv: ISO-8859 text, with very long lines (760)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201801.csv: ISO-8859 text, with very long lines (3217)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201405.csv: ISO-8859 text, with very long lines (777)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201608.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201705.csv: ISO-8859 text, with very long lines (3377)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201404.csv: ISO-8859 text, with very long lines (676)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201707.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201407.csv: ISO-8859 text, with very long lines (782)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201504.csv: ISO-8859 text, with very long lines (782)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201409.csv: ISO-8859 text, with very long lines (2213)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201709.csv: ISO-8859 text, with very long lines (760)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201402.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201706.csv: ISO-8859 text, with very long lines (3216)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201603.csv: ISO-8859 text, with very long lines (676)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201403.csv: ISO-8859 text, with very long lines (672)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201503.csv: ISO-8859 text, with very long lines (2219)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201405.csv: ISO-8859 text, with very long lines (782)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201806.csv: ISO-8859 text, with very long lines (760)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201701.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201611.csv: ISO-8859 text, with very long lines (760)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201703.csv: ISO-8859 text, with very long lines (3385)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201708.csv: ISO-8859 text, with very long lines (3215)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201410.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201701.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201810.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201505.csv: ISO-8859 text, with very long lines (782)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201409.csv: ISO-8859 text, with very long lines (779)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201807.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201607.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201609.csv: ISO-8859 text, with very long lines (3201)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201403.csv: ISO-8859 text, with very long lines (2035)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201507.csv: ISO-8859 text, with very long lines (782)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201502.csv: ISO-8859 text, with very long lines (2212)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201706.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201410.csv: ISO-8859 text, with very long lines (782)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201710.csv: ISO-8859 text, with very long lines (760)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201608.csv: ISO-8859 text, with very long lines (3202)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201805.csv: ISO-8859 text, with very long lines (760)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201505.csv: ISO-8859 text, with very long lines (2219)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201601.csv: ISO-8859 text, with very long lines (676)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201605.csv: ISO-8859 text, with very long lines (3257)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201707.csv: ISO-8859 text, with very long lines (760)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201511.csv: ISO-8859 text, with very long lines (765)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201801.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201512.csv: ISO-8859 text, with very long lines (761)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201409.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201411.csv: ISO-8859 text, with very long lines (782)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201811.csv: ISO-8859 text, with very long lines (760)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201803.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201709.csv: ISO-8859 text, with very long lines (3216)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201408.csv: ISO-8859 text, with very long lines (782)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201507.csv: ISO-8859 text, with very long lines (2043)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201703.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201405.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201607.csv: ISO-8859 text, with very long lines (759)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201411.csv: ISO-8859 text, with very long lines (779)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201401.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201612.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201809.csv: ISO-8859 text, with very long lines (3196)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201812.csv: ISO-8859 text, with very long lines (3190)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_mes_201706.csv: ISO-8859 text, with very long lines (760)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_rentab_ano_201501.csv: ISO-8859 text, with very long lines (782)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_201805.csv: ISO-8859 text, with very long lines (3217)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201709.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/HIST/lamina_fi_carteira_201404.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202102.csv: ISO-8859 text, with very long lines (3404)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202310.csv: ISO-8859 text, with very long lines (753)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202002.csv: ISO-8859 text, with very long lines (3355)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202304.csv: ISO-8859 text, with very long lines (3285)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202112.csv: ISO-8859 text, with very long lines (766)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_201903.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202412.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202412.csv: ISO-8859 text, with very long lines (374)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_201904.csv: ISO-8859 text, with very long lines (760)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202007.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202303.csv: ISO-8859 text, with very long lines (3285)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_201906.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202001.csv: ISO-8859 text, with very long lines (3355)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202206.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202407.csv: ISO-8859 text, with very long lines (3303)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_201909.csv: ISO-8859 text, with very long lines (760)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202202.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_201908.csv: ISO-8859 text, with very long lines (760)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_201905.csv: ISO-8859 text, with very long lines (760)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202006.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202209.csv: ISO-8859 text, with very long lines (765)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202208.csv: ISO-8859 text, with very long lines (3284)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202004.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202308.csv: ISO-8859 text, with very long lines (767)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202307.csv: ISO-8859 text, with very long lines (3308)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202507.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202004.csv: ISO-8859 text, with very long lines (3284)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_201902.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202303.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202409.csv: ISO-8859 text, with very long lines (3303)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202003.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202203.csv: ISO-8859 text, with very long lines (3284)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202201.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202304.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202306.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_201903.csv: ISO-8859 text, with very long lines (3190)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202103.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202202.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202108.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202012.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202105.csv: ISO-8859 text, with very long lines (766)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202309.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202304.csv: ISO-8859 text, with very long lines (767)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202309.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202001.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202205.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202107.csv: ISO-8859 text, with very long lines (766)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202206.csv: ISO-8859 text, with very long lines (3284)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202402.csv: ISO-8859 text, with very long lines (3312)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202003.csv: ISO-8859 text, with very long lines (3354)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202411.csv: ISO-8859 text, with very long lines (4239)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202311.csv: ISO-8859 text, with very long lines (753)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202309.csv: ISO-8859 text, with very long lines (767)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202007.csv: ISO-8859 text, with very long lines (3284)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202106.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202205.csv: ISO-8859 text, with very long lines (3284)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202502.csv: ISO-8859 text, with very long lines (376)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202504.csv: ISO-8859 text, with very long lines (4320)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202007.csv: ISO-8859 text, with very long lines (761)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202005.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202412.csv: ISO-8859 text, with very long lines (387)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202211.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202405.csv: ISO-8859 text, with very long lines (753)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_201902.csv: ISO-8859 text, with very long lines (760)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202105.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202404.csv: ISO-8859 text, with very long lines (3312)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_201912.csv: ISO-8859 text, with very long lines (3355)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202009.csv: ISO-8859 text, with very long lines (761)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202301.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202104.csv: ISO-8859 text, with very long lines (766)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202002.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_201912.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202504.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202407.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202212.csv: ISO-8859 text, with very long lines (3285)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202307.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202312.csv: ISO-8859 text, with very long lines (753)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202202.csv: ISO-8859 text, with very long lines (765)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202002.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202107.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202012.csv: ISO-8859 text, with very long lines (766)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202404.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202002.csv: ISO-8859 text, with very long lines (760)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202101.csv: ISO-8859 text, with very long lines (766)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202402.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202402.csv: ISO-8859 text, with very long lines (757)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202302.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_201905.csv: ISO-8859 text, with very long lines (3356)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202305.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202302.csv: ISO-8859 text, with very long lines (3285)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202004.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202001.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202504.csv: ISO-8859 text, with very long lines (385)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202308.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202401.csv: ISO-8859 text, with very long lines (3312)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202011.csv: ISO-8859 text, with very long lines (3284)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202112.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202006.csv: ISO-8859 text, with very long lines (3284)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202311.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_201911.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202012.csv: ISO-8859 text, with very long lines (3284)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202101.csv: ISO-8859 text, with very long lines (3404)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_201902.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202504.csv: ISO-8859 text, with very long lines (391)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202405.csv: ISO-8859 text, with very long lines (3312)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202301.csv: ISO-8859 text, with very long lines (767)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202008.csv: ISO-8859 text, with very long lines (761)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202401.csv: ISO-8859 text, with very long lines (753)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202007.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202109.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202011.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202102.csv: ISO-8859 text, with very long lines (764)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202501.csv: ISO-8859 text, with very long lines (387)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202109.csv: ISO-8859 text, with very long lines (766)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202010.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202409.csv: ISO-8859 text, with very long lines (766)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_mes_202402.csv: ISO-8859 text, with very long lines (753)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_202108.csv: ISO-8859 text, with very long lines (3284)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_201910.csv: ISO-8859 text, with very long lines (3356)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202203.csv: ISO-8859 text, with very long lines (765)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_201908.csv: ISO-8859 text, with very long lines (3356)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_202201.csv: ISO-8859 text, with very long lines (765)
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_carteira_202108.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/LAMINA/DADOS/lamina_fi_rentab_ano_201908.csv: ISO-8859 text, with very long lines (763)
+./scripts_dados_cvm/../dados/DOC/COMPL/META/meta_compl_fi.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/COMPL/META/meta_compl_fi_inf_cotst.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/COMPL/META/meta_compl_fi_prest.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/COMPL/META/meta_compl_fi_inf.txt: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_inf_cotst_201903.csv: ISO-8859 text, with very long lines (349)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_prest_201903.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_prest_201810.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_prest_201904.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_inf_201904.csv: ISO-8859 text, with very long lines (418)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_prest_201901.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_inf_201809.csv: ISO-8859 text, with very long lines (414)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_prest_201803.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_prest_201812.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_inf_cotst_201805.csv: ISO-8859 text, with very long lines (349)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_201801.csv: ISO-8859 text, with very long lines (16748)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_201805.csv: ISO-8859 text, with very long lines (14818)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_201811.csv: ISO-8859 text, with very long lines (12651)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_201804.csv: ISO-8859 text, with very long lines (17119)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_prest_201801.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_inf_201806.csv: ISO-8859 text, with very long lines (425)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_prest_201902.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_201802.csv: ISO-8859 text, with very long lines (12586)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_prest_201805.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_inf_201801.csv: ISO-8859 text, with very long lines (418)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_inf_201805.csv: ISO-8859 text, with very long lines (418)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_inf_201803.csv: ISO-8859 text, with very long lines (427)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_201903.csv: ISO-8859 text, with very long lines (12441)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_201806.csv: ISO-8859 text, with very long lines (16510)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_inf_201811.csv: ISO-8859 text, with very long lines (425)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_201810.csv: ISO-8859 text, with very long lines (12816)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_inf_201902.csv: ISO-8859 text, with very long lines (425)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_inf_cotst_201902.csv: ISO-8859 text, with very long lines (335)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_inf_cotst_201810.csv: ISO-8859 text, with very long lines (349)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_201809.csv: ISO-8859 text, with very long lines (12783)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_inf_cotst_201802.csv: ISO-8859 text, with very long lines (349)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_inf_cotst_201801.csv: ISO-8859 text, with very long lines (349)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_inf_cotst_201904.csv: ISO-8859 text, with very long lines (349)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_201812.csv: ISO-8859 text, with very long lines (9324)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_inf_cotst_201809.csv: ISO-8859 text, with very long lines (349)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_inf_cotst_201808.csv: ISO-8859 text, with very long lines (349)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_prest_201806.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_inf_201810.csv: ISO-8859 text, with very long lines (418)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_prest_201809.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_inf_cotst_201803.csv: ISO-8859 text, with very long lines (349)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_prest_201807.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_inf_cotst_201812.csv: ISO-8859 text, with very long lines (349)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_prest_201811.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_201803.csv: ISO-8859 text, with very long lines (15617)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_prest_201808.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_201808.csv: ISO-8859 text, with very long lines (12130)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_inf_201903.csv: ISO-8859 text, with very long lines (418)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_inf_201802.csv: ISO-8859 text, with very long lines (418)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_inf_cotst_201804.csv: ISO-8859 text, with very long lines (349)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_201902.csv: ISO-8859 text, with very long lines (14350)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_201901.csv: ISO-8859 text, with very long lines (13043)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_inf_cotst_201901.csv: ISO-8859 text, with very long lines (349)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_inf_201901.csv: ISO-8859 text, with very long lines (418)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_inf_201804.csv: ISO-8859 text, with very long lines (418)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_prest_201802.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_201904.csv: ISO-8859 text, with very long lines (14876)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_inf_cotst_201811.csv: ISO-8859 text, with very long lines (349)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_201807.csv: ISO-8859 text, with very long lines (14783)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_inf_cotst_201806.csv: ISO-8859 text, with very long lines (348)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_inf_201812.csv: ISO-8859 text, with very long lines (424)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_inf_cotst_201807.csv: ISO-8859 text, with very long lines (349)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_inf_201808.csv: ISO-8859 text, with very long lines (425)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_inf_201807.csv: ISO-8859 text, with very long lines (424)
+./scripts_dados_cvm/../dados/DOC/COMPL/DADOS/compl_fi_prest_201804.csv: ISO-8859 text
+./scripts_dados_cvm/../dados/robots.txt: ASCII text
