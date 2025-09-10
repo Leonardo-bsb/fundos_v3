@@ -1,47 +1,271 @@
 {
-  "cad_fi": [["ADMIN","varchar","100"],["AUDITOR","varchar","100"],["CD_CVM","numeric","7"],["CLASSE","varchar","100"],["CLASSE_ANBIMA","varchar","100"],["CNPJ_ADMIN","varchar","20"],["CNPJ_AUDITOR","varchar","20"],["CNPJ_CONTROLADOR","varchar","20"],["CNPJ_CUSTODIANTE","varchar","20"],["CNPJ_FUNDO","varchar","20"],["CONDOM","varchar","100"],["CONTROLADOR","varchar","100"],["CPF_CNPJ_GESTOR","varchar","20"],["CUSTODIANTE","varchar","100"],["DENOM_SOCIAL","varchar","100"],["DIRETOR","varchar","100"],["DT_CANCEL","date","10"],["DT_CONST","date","10"],["DT_FIM_EXERC","date","10"],["DT_INI_ATIV","date","10"],["DT_INI_CLASSE","date","10"],["DT_INI_EXERC","date","10"],["DT_INI_SIT","date","10"],["DT_PATRIM_LIQ","date","10"],["DT_REG","date","10"],["ENTID_INVEST","varchar","1"],["FUNDO_COTAS","varchar","1"],["FUNDO_EXCLUSIVO","varchar","1"],["GESTOR","varchar","100"],["INF_TAXA_ADM","varchar","400"],["INF_TAXA_PERFM","varchar","400"],["INVEST_CEMPR_EXTER","varchar","1"],["PF_PJ_GESTOR","char","2"],["PUBLICO_ALVO","varchar","15"],["RENTAB_FUNDO","varchar","100"],["SIT","varchar","100"],["TAXA_ADM","real","24"],["TAXA_PERFM","real","24"],["TP_FUNDO","varchar","20"],["TRIB_LPRAZO","N","N/A"],["VL_PATRIM_LIQ","numeric","24"]]
+  "cad_fi": {
+    "ADMIN": ["varchar","100"],
+    "AUDITOR": ["varchar","100"],
+    "CD_CVM": ["numeric","Precisão:7"],
+    "CLASSE": ["varchar","100"],
+    "CLASSE_ANBIMA": ["varchar","100"],
+    "CNPJ_ADMIN": ["varchar","20"],
+    "CNPJ_AUDITOR": ["varchar","20"],
+    "CNPJ_CONTROLADOR": ["varchar","20"],
+    "CNPJ_CUSTODIANTE": ["varchar","20"],
+    "CNPJ_FUNDO": ["varchar","20"],
+    "CONDOM": ["varchar","100"],
+    "CONTROLADOR": ["varchar","100"],
+    "CPF_CNPJ_GESTOR": ["varchar","20"],
+    "CUSTODIANTE": ["varchar","100"],
+    "DENOM_SOCIAL": ["varchar","100"],
+    "DIRETOR": ["varchar","100"],
+    "DT_CANCEL": ["date","10"],
+    "DT_CONST": ["date","10"],
+    "DT_FIM_EXERC": ["date","10"],
+    "DT_INI_ATIV": ["date","10"],
+    "DT_INI_CLASSE": ["date","10"],
+    "DT_INI_EXERC": ["date","10"],
+    "DT_INI_SIT": ["date","10"],
+    "DT_PATRIM_LIQ": ["date","10"],
+    "DT_REG": ["date","10"],
+    "ENTID_INVEST": ["varchar","1"],
+    "FUNDO_COTAS": ["varchar","1"],
+    "FUNDO_EXCLUSIVO": ["varchar","1"],
+    "GESTOR": ["varchar","100"],
+    "INF_TAXA_ADM": ["varchar","400"],
+    "INF_TAXA_PERFM": ["varchar","400"],
+    "INVEST_CEMPR_EXTER": ["varchar","1"],
+    "PF_PJ_GESTOR": ["char","2"],
+    "PUBLICO_ALVO": ["varchar","15"],
+    "RENTAB_FUNDO": ["varchar","100"],
+    "SIT": ["varchar","100"],
+    "TAXA_ADM": ["real","Precisão:24"],
+    "TAXA_PERFM": ["real","Precisão:24"],
+    "TP_FUNDO": ["varchar","20"],
+    "TRIB_LPRAZO": ["varchar","3"],
+    "VL_PATRIM_LIQ": ["numeric","Precisão:24"]
+  }
 ,
-  "cad_fi_hist_admin": [["ADMIN","varchar","100"],["CNPJ_ADMIN","varchar","20"],["CNPJ_FUNDO","varchar","20"],["DT_FIM_ADMIN","date","10"],["DT_INI_ADMIN","date","10"],["DT_REG","date","10"]]
+  "cad_fi_hist_admin": {
+    "ADMIN": ["varchar","100"],
+    "CNPJ_ADMIN": ["varchar","20"],
+    "CNPJ_FUNDO": ["varchar","20"],
+    "DT_FIM_ADMIN": ["date","10"],
+    "DT_INI_ADMIN": ["date","10"],
+    "DT_REG": ["date","10"]
+  }
 ,
-  "cad_fi_hist_auditor": [["AUDITOR","varchar","100"],["CNPJ_AUDITOR","varchar","20"],["CNPJ_FUNDO","varchar","20"],["DT_FIM_AUDITOR","date","10"],["DT_INI_AUDITOR","date","10"],["DT_REG","date","10"]]
+  "cad_fi_hist_auditor": {
+    "AUDITOR": ["varchar","100"],
+    "CNPJ_AUDITOR": ["varchar","20"],
+    "CNPJ_FUNDO": ["varchar","20"],
+    "DT_FIM_AUDITOR": ["date","10"],
+    "DT_INI_AUDITOR": ["date","10"],
+    "DT_REG": ["date","10"]
+  }
 ,
-  "cad_fi_hist_classe": [["CLASSE","varchar","100"],["CNPJ_FUNDO","varchar","20"],["DT_FIM_CLASSE","date","10"],["DT_INI_CLASSE","date","10"],["DT_REG","date","10"]]
+  "cad_fi_hist_classe": {
+    "CLASSE": ["varchar","100"],
+    "CNPJ_FUNDO": ["varchar","20"],
+    "DT_FIM_CLASSE": ["date","10"],
+    "DT_INI_CLASSE": ["date","10"],
+    "DT_REG": ["date","10"]
+  }
 ,
-  "cad_fi_hist_condom": [["CNPJ_FUNDO","varchar","20"],["CONDOM","varchar","100"],["DT_FIM_CONDOM","date","10"],["DT_INI_CONDOM","date","10"],["DT_REG","date","10"]]
+  "cad_fi_hist_condom": {
+    "CNPJ_FUNDO": ["varchar","20"],
+    "CONDOM": ["varchar","100"],
+    "DT_FIM_CONDOM": ["date","10"],
+    "DT_INI_CONDOM": ["date","10"],
+    "DT_REG": ["date","10"]
+  }
 ,
-  "cad_fi_hist_controlador": [["CNPJ_CONTROLADOR","varchar","20"],["CNPJ_FUNDO","varchar","20"],["CONTROLADOR","varchar","100"],["DT_FIM_CONTROLADOR","date","10"],["DT_INI_CONTROLADOR","date","10"],["DT_REG","date","10"]]
+  "cad_fi_hist_controlador": {
+    "CNPJ_CONTROLADOR": ["varchar","20"],
+    "CNPJ_FUNDO": ["varchar","20"],
+    "CONTROLADOR": ["varchar","100"],
+    "DT_FIM_CONTROLADOR": ["date","10"],
+    "DT_INI_CONTROLADOR": ["date","10"],
+    "DT_REG": ["date","10"]
+  }
 ,
-  "cad_fi_hist_custodiante": [["CNPJ_CUSTODIANTE","varchar","20"],["CNPJ_FUNDO","varchar","20"],["CUSTODIANTE","varchar","100"],["DT_FIM_CUSTODIANTE","date","10"],["DT_INI_CUSTODIANTE","date","10"],["DT_REG","date","10"]]
+  "cad_fi_hist_custodiante": {
+    "CNPJ_CUSTODIANTE": ["varchar","20"],
+    "CNPJ_FUNDO": ["varchar","20"],
+    "CUSTODIANTE": ["varchar","100"],
+    "DT_FIM_CUSTODIANTE": ["date","10"],
+    "DT_INI_CUSTODIANTE": ["date","10"],
+    "DT_REG": ["date","10"]
+  }
 ,
-  "cad_fi_hist_denom_comerc": [["CNPJ_FUNDO","varchar","20"],["DENOM_COMERC","varchar","100"],["DT_FIM_DENOM_COMERC","date","10"],["DT_INI_DENOM_COMERC","date","10"],["DT_REG","date","10"]]
+  "cad_fi_hist_denom_comerc": {
+    "CNPJ_FUNDO": ["varchar","20"],
+    "DENOM_COMERC": ["varchar","100"],
+    "DT_FIM_DENOM_COMERC": ["date","10"],
+    "DT_INI_DENOM_COMERC": ["date","10"],
+    "DT_REG": ["date","10"]
+  }
 ,
-  "cad_fi_hist_denom_social": [["CNPJ_FUNDO","varchar","20"],["DENOM_SOCIAL","varchar","100"],["DT_FIM_DENOM_SOCIAL","date","10"],["DT_INI_DENOM_SOCIAL","date","10"],["DT_REG","date","10"]]
+  "cad_fi_hist_denom_social": {
+    "CNPJ_FUNDO": ["varchar","20"],
+    "DENOM_SOCIAL": ["varchar","100"],
+    "DT_FIM_DENOM_SOCIAL": ["date","10"],
+    "DT_INI_DENOM_SOCIAL": ["date","10"],
+    "DT_REG": ["date","10"]
+  }
 ,
-  "cad_fi_hist_diretor_resp": [["CNPJ_FUNDO","varchar","20"],["DIRETOR","varchar","100"],["DT_FIM_DIRETOR","date","10"],["DT_INI_DIRETOR","date","10"],["DT_REG","date","10"]]
+  "cad_fi_hist_diretor_resp": {
+    "CNPJ_FUNDO": ["varchar","20"],
+    "DIRETOR": ["varchar","100"],
+    "DT_FIM_DIRETOR": ["date","10"],
+    "DT_INI_DIRETOR": ["date","10"],
+    "DT_REG": ["date","10"]
+  }
 ,
-  "cad_fi_hist_exclusivo": [["CNPJ_FUNDO","varchar","20"],["DT_FIM_ST_EXCLUSIVO","date","10"],["DT_INI_ST_EXCLUSIVO","date","10"],["DT_REG","date","10"],["FUNDO_EXCLUSIVO","varchar","1"]]
+  "cad_fi_hist_exclusivo": {
+    "CNPJ_FUNDO": ["varchar","20"],
+    "DT_FIM_ST_EXCLUSIVO": ["date","10"],
+    "DT_INI_ST_EXCLUSIVO": ["date","10"],
+    "DT_REG": ["date","10"],
+    "FUNDO_EXCLUSIVO": ["varchar","1"]
+  }
 ,
-  "cad_fi_hist_exerc_social": [["CNPJ_FUNDO","varchar","20"],["DT_FIM_EXERC","date","10"],["DT_INI_EXERC","date","10"],["DT_REG","date","10"]]
+  "cad_fi_hist_exerc_social": {
+    "CNPJ_FUNDO": ["varchar","20"],
+    "DT_FIM_EXERC": ["date","10"],
+    "DT_INI_EXERC": ["date","10"],
+    "DT_REG": ["date","10"]
+  }
 ,
-  "cad_fi_hist_fic": [["CNPJ_FUNDO","varchar","20"],["DT_FIM_ST_COTAS","date","10"],["DT_INI_ST_COTAS","date","10"],["DT_REG","date","10"],["FUNDO_COTAS","varchar","1"]]
+  "cad_fi_hist_fic": {
+    "CNPJ_FUNDO": ["varchar","20"],
+    "DT_FIM_ST_COTAS": ["date","10"],
+    "DT_INI_ST_COTAS": ["date","10"],
+    "DT_REG": ["date","10"],
+    "FUNDO_COTAS": ["varchar","1"]
+  }
 ,
-  "cad_fi_hist_gestor": [["CNPJ_FUNDO","varchar","20"],["CPF_CNPJ_GESTOR","varchar","20"],["DT_FIM_GESTOR","date","10"],["DT_INI_GESTOR","date","10"],["DT_REG","date","10"],["GESTOR","varchar","100"],["PF_PJ_GESTOR","char","2"]]
+  "cad_fi_hist_gestor": {
+    "CNPJ_FUNDO": ["varchar","20"],
+    "CPF_CNPJ_GESTOR": ["varchar","20"],
+    "DT_FIM_GESTOR": ["date","10"],
+    "DT_INI_GESTOR": ["date","10"],
+    "DT_REG": ["date","10"],
+    "GESTOR": ["varchar","100"],
+    "PF_PJ_GESTOR": ["char","2"]
+  }
 ,
-  "cad_fi_hist_publico_alvo": [["CNPJ_FUNDO","varchar","20"],["DT_REG","date","10"],["PUBLICO_ALVO","varchar","15"],["DT_INI_PUBLICO_ALVO","date","10"],["DT_FIM_PUBLICO_ALVO","date","10"]]
+  "cad_fi_hist_publico_alvo": {
+    "CNPJ_FUNDO": ["varchar","20"],
+    "DT_REG": ["date","10"],
+    "PUBLICO_ALVO": ["varchar","15"],
+    "DT_INI_PUBLICO_ALVO": ["date","10"],
+    "DT_FIM_PUBLICO_ALVO": ["date","10"]
+  }
 ,
-  "cad_fi_hist_rentab": [["CNPJ_FUNDO","varchar","20"],["DT_FIM_RENTAB","date","10"],["DT_INI_RENTAB","date","10"],["DT_REG","date","10"],["RENTAB_FUNDO","varchar","100"]]
+  "cad_fi_hist_rentab": {
+    "CNPJ_FUNDO": ["varchar","20"],
+    "DT_FIM_RENTAB": ["date","10"],
+    "DT_INI_RENTAB": ["date","10"],
+    "DT_REG": ["date","10"],
+    "RENTAB_FUNDO": ["varchar","100"]
+  }
 ,
-  "cad_fi_hist_sit": [["CNPJ_FUNDO","varchar","20"],["DT_FIM_SIT","date","10"],["DT_INI_SIT","date","10"],["DT_REG","date","10"],["SIT","varchar","40"]]
+  "cad_fi_hist_sit": {
+    "CNPJ_FUNDO": ["varchar","20"],
+    "DT_FIM_SIT": ["date","10"],
+    "DT_INI_SIT": ["date","10"],
+    "DT_REG": ["date","10"],
+    "SIT": ["varchar","40"]
+  }
 ,
-  "cad_fi_hist_taxa_adm": [["CNPJ_FUNDO","varchar","20"],["DT_INI_TAXA_ADM","date","10"],["DT_REG","date","10"],["INF_TAXA_ADM","varchar","400"],["TAXA_ADM","numeric","27"]]
+  "cad_fi_hist_taxa_adm": {
+    "CNPJ_FUNDO": ["varchar","20"],
+    "DT_INI_TAXA_ADM": ["date","10"],
+    "DT_REG": ["date","10"],
+    "INF_TAXA_ADM": ["varchar","400"],
+    "TAXA_ADM": ["numeric","Precisão:27"]
+  }
 ,
-  "cad_fi_hist_taxa_perfm": [["CNPJ_FUNDO","varchar","20"],["DS_TAXA_PERFM","varchar","400"],["DT_INI_TAXA_PERFM","date","10"],["DT_REG","date","10"],["VL_TAXA_PERFM","numeric","27"]]
+  "cad_fi_hist_taxa_perfm": {
+    "CNPJ_FUNDO": ["varchar","20"],
+    "DS_TAXA_PERFM": ["varchar","400"],
+    "DT_INI_TAXA_PERFM": ["date","10"],
+    "DT_REG": ["date","10"],
+    "VL_TAXA_PERFM": ["numeric","Precisão:27"]
+  }
 ,
-  "cad_fi_hist_trib_lprazo": [["CNPJ_FUNDO","varchar","20"],["DT_FIM_ST_TRIB_LPRAZO","date","10"],["DT_INI_ST_TRIB_LPRAZO","date","10"],["DT_REG","date","10"],["TRIB_LPRAZO","N","N/A"]]
+  "cad_fi_hist_trib_lprazo": {
+    "CNPJ_FUNDO": ["varchar","20"],
+    "DT_FIM_ST_TRIB_LPRAZO": ["date","10"],
+    "DT_INI_ST_TRIB_LPRAZO": ["date","10"],
+    "DT_REG": ["date","10"],
+    "TRIB_LPRAZO": ["varchar","3"]
+  }
 ,
-  "registro_classe": [["Auditor","varchar","100"],["CNPJ_Auditor","numeric","15"],["CNPJ_Controlador","numeric","15"],["CNPJ_Custodiante","numeric","15"],["Codigo_CVM","numeric","7"],["Controlador","varchar","100"],["Custodiante","varchar","100"],["Data_Constituicao","date","10"],["Publico_Alvo","varchar","15"],["Indicador_Desempenho","varchar","100"],["Forma_Condominio","varchar","100"],["Denominacao_Social","varchar","100"],["Classe_ESG","varchar","1"],["CNPJ_Classe","numeric","15"],["ID_Registro_Classe","bigint","19"],["Classe_Cotas","varchar","1"],["Data_Inicio","date","10"],["Classificacao_Anbima","varchar","100"],["Tributacao_Longo_Prazo","varchar","3"],["Data_Registro","date","10"],["Patrimonio_Liquido","numeric","24"],["Classificacao","varchar","100"],["Tipo_Classe","varchar","100"],["Permitido_Aplicacao_CemPorCento_Exterior","varchar","1"],["Situacao","varchar","100"],["Data_Patrimonio_Liquido","date","10"],["Exclusivo","varchar","1"],["ID_Registro_Fundo","bigint","19"],["Entidade_Investimento","varchar","1"]]
+  "registro_classe": {
+    "Auditor": ["varchar","100"],
+    "CNPJ_Auditor": ["numeric","Precisão:15"],
+    "CNPJ_Controlador": ["numeric","Precisão:15"],
+    "CNPJ_Custodiante": ["numeric","Precisão:15"],
+    "Codigo_CVM": ["numeric","Precisão:7"],
+    "Controlador": ["varchar","100"],
+    "Custodiante": ["varchar","100"],
+    "Data_Constituicao": ["date","10"],
+    "Publico_Alvo": ["varchar","15"],
+    "Indicador_Desempenho": ["varchar","100"],
+    "Forma_Condominio": ["varchar","100"],
+    "Denominacao_Social": ["varchar","100"],
+    "Classe_ESG": ["varchar","1"],
+    "CNPJ_Classe": ["numeric","Precisão:15"],
+    "ID_Registro_Classe": ["bigint","Precisão:19"],
+    "Classe_Cotas": ["varchar","1"],
+    "Data_Inicio": ["date","10"],
+    "Classificacao_Anbima": ["varchar","100"],
+    "Tributacao_Longo_Prazo": ["varchar","3"],
+    "Data_Registro": ["date","10"],
+    "Patrimonio_Liquido": ["numeric","Precisão:24"],
+    "Classificacao": ["varchar","100"],
+    "Tipo_Classe": ["varchar","100"],
+    "Permitido_Aplicacao_CemPorCento_Exterior": ["varchar","1"],
+    "Situacao": ["varchar","100"],
+    "Data_Patrimonio_Liquido": ["date","10"],
+    "Exclusivo": ["varchar","1"],
+    "ID_Registro_Fundo": ["bigint","Precisão:19"],
+    "Entidade_Investimento": ["varchar","1"]
+  }
 ,
-  "registro_fundo": [["CNPJ_Fundo","numeric","15"],["Codigo_CVM","numeric","7"],["CPF_CNPJ_Gestor","numeric","15"],["Data_Constituicao","date","10"],["Data_Fim_Exercicio_Social","date","10"],["Data_Inicio_Exercicio_Social","date","10"],["Diretor","varchar","100"],["Gestor","varchar","100"],["Data_Inicio_Situacao","date","10"],["Tipo_Fundo","varchar","20"],["Denominacao_Social","varchar","100"],["Data_Cancelamento","date","10"],["Data_Registro","date","10"],["Patrimonio_Liquido","numeric","24"],["Data_Adaptacao_RCVM175","date","10"],["Administrador","varchar","100"],["CNPJ_Administrador","numeric","15"],["Tipo_Pessoa_Gestor","char","2"],["Situacao","varchar","100"],["Data_Patrimonio_Liquido","date","10"],["ID_Registro_Fundo","bigint","19"]]
+  "registro_fundo": {
+    "CNPJ_Fundo": ["numeric","Precisão:15"],
+    "Codigo_CVM": ["numeric","Precisão:7"],
+    "CPF_CNPJ_Gestor": ["numeric","Precisão:15"],
+    "Data_Constituicao": ["date","10"],
+    "Data_Fim_Exercicio_Social": ["date","10"],
+    "Data_Inicio_Exercicio_Social": ["date","10"],
+    "Diretor": ["varchar","100"],
+    "Gestor": ["varchar","100"],
+    "Data_Inicio_Situacao": ["date","10"],
+    "Tipo_Fundo": ["varchar","20"],
+    "Denominacao_Social": ["varchar","100"],
+    "Data_Cancelamento": ["date","10"],
+    "Data_Registro": ["date","10"],
+    "Patrimonio_Liquido": ["numeric","Precisão:24"],
+    "Data_Adaptacao_RCVM175": ["date","10"],
+    "Administrador": ["varchar","100"],
+    "CNPJ_Administrador": ["numeric","Precisão:15"],
+    "Tipo_Pessoa_Gestor": ["char","2"],
+    "Situacao": ["varchar","100"],
+    "Data_Patrimonio_Liquido": ["date","10"],
+    "ID_Registro_Fundo": ["bigint","Precisão:19"]
+  }
 ,
-  "registro_subclasse": [["Codigo_CVM","numeric","7"],["Data_Constituicao","date","10"],["ID_Subclasse","varchar","15"],["Publico_Alvo","varchar","15"],["Forma_Condominio","varchar","100"],["Denominacao_Social","varchar","100"],["ID_Registro_Classe","bigint","19"],["Data_Inicio","date","10"],["Situacao","varchar","100"],["Exclusivo","varchar","1"]]
+  "registro_subclasse": {
+    "Codigo_CVM": ["numeric","Precisão:7"],
+    "Data_Constituicao": ["date","10"],
+    "ID_Subclasse": ["varchar","15"],
+    "Publico_Alvo": ["varchar","15"],
+    "Forma_Condominio": ["varchar","100"],
+    "Denominacao_Social": ["varchar","100"],
+    "ID_Registro_Classe": ["bigint","Precisão:19"],
+    "Data_Inicio": ["date","10"],
+    "Situacao": ["varchar","100"],
+    "Exclusivo": ["varchar","1"]
+  }
 }

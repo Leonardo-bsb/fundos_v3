@@ -2,10 +2,11 @@
 set -euo pipefail
 
 # Uso: ./format_meta.sh <arquivo_meta.txt | diretorio_com_txt>
-# - Se for diretório: gera um único JSON com uma chave por arquivo (sem meta_ e .txt)
-# - Se for arquivo: gera JSON com uma única chave
+# - Diretório: gera um único JSON com uma chave por arquivo (sem meta_ e .txt)
+# - Arquivo: gera JSON com uma única chave
+# Cada registro do META vira:  "CAMPO": ["TIPO","TAMANHO"]
 
-build_array_from_meta() {
+build_object_from_meta() {
   local in="$1"
   sed -e 's/\r//g' "$in" \
     | sed '/^-/d' \
@@ -13,18 +14,31 @@ build_array_from_meta() {
     | sed '/Descricao/d' \
     | sed '/Domínio/d' \
     | sed '/Dominio/d' \
-    | awk -F: '{ print $2 }' \
     | awk '
-BEGIN { FS=";"; RS=""; c=0 }
+BEGIN {
+  RS=""; FS="\n"; count=0;
+}
 {
-  gsub(/ /, "", $0);
-  # campos: $1 = nome, $4 = tipo, $5 = tamanho
-  name=$1; typ=$4; size=$5;
-  # escapa aspas
-  gsub(/"/, "\\\"", name);
-  gsub(/"/, "\\\"", typ);
-  gsub(/"/, "\\\"", size);
-  printf "%s[\"%s\",\"%s\",\"%s\"]", (c++?",":""), name, typ, size
+  # Espera blocos com pelo menos 5 linhas (Nome, Descrição, Domínio, Tipo, Tamanho)
+  # Extrai a parte após ":" em cada linha relevante
+  name=$1; sub(/^[^:]*:\s*/, "", name)
+  typ =$4; sub(/^[^:]*:\s*/, "", typ)
+  size=$5; sub(/^[^:]*:\s*/, "", size)
+
+  # Remove espaços internos, como no bash original (gsub(/ /,"", $0))
+  gsub(/[[:space:]]+/, "", name)
+  gsub(/[[:space:]]+/, "", typ)
+  gsub(/[[:space:]]+/, "", size)
+
+  # Escapa aspas
+  gsub(/"/, "\\\"", name)
+  gsub(/"/, "\\\"", typ)
+  gsub(/"/, "\\\"", size)
+
+  if (length(name)==0) next
+
+  if (count++ > 0) printf ",\n"
+  printf "    \"%s\": [\"%s\",\"%s\"]", name, typ, size
 }
 END { print "" }'
 }
@@ -45,11 +59,12 @@ if [[ -d "$in" ]]; then
     fname="$(basename "$f")"
     key="${fname%.txt}"
     key="${key#meta_}"
-    arr="$(build_array_from_meta "$f")"
-    # pula vazios
-    [[ -z "$arr" ]] && continue
+    obj="$(build_object_from_meta "$f")"
+    [[ -z "$obj" ]] && continue
     if [[ $first -eq 0 ]]; then echo ","; fi
-    echo "  \"$key\": [$arr]"
+    echo "  \"$key\": {"
+    echo "$obj"
+    echo "  }"
     first=0
   done
   echo "}"
@@ -57,9 +72,11 @@ elif [[ -f "$in" ]]; then
   fname="$(basename "$in")"
   key="${fname%.txt}"
   key="${key#meta_}"
-  arr="$(build_array_from_meta "$in")"
+  obj="$(build_object_from_meta "$in")"
   echo "{"
-  echo "  \"$key\": [$arr]"
+  echo "  \"$key\": {"
+  echo "$obj"
+  echo "  }"
   echo "}"
 else
   echo "Erro: caminho não encontrado: $in" >&2
