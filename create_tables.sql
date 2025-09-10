@@ -1,3 +1,28 @@
+DROP TABLE IF EXISTS
+cad_fi,
+    cad_fi_hist_admin,
+    cad_fi_hist_auditor,
+    cad_fi_hist_classe,
+    cad_fi_hist_condom,
+    cad_fi_hist_controlador,
+    cad_fi_hist_custodiante,
+    cad_fi_hist_denom_comerc,
+    cad_fi_hist_denom_social,
+    cad_fi_hist_diretor_resp,
+    cad_fi_hist_exclusivo,
+    cad_fi_hist_exerc_social,
+    cad_fi_hist_fic,
+    cad_fi_hist_gestor,
+    cad_fi_hist_publico_alvo,
+    cad_fi_hist_rentab,
+    cad_fi_hist_sit,
+    cad_fi_hist_taxa_adm,
+    cad_fi_hist_taxa_perfm,
+    cad_fi_hist_trib_lprazo,
+    registro_classe,
+    registro_fundo,
+    registro_subclasse CASCADE;
+
 -- Table: cad_fi
 CREATE TABLE cad_fi (
     "TP_FUNDO" varchar(20),

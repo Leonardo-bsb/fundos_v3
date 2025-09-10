@@ -2,8 +2,8 @@ import json
 
 # ---------------------------------------------------------------------------
 # Objective:
-#   Generate PostgreSQL CREATE TABLE statements from the meta_cad.sorted.json
-#   file, which contains table and column metadata (type and size).
+#   Generate PostgreSQL DROP TABLE IF EXISTS statements (option 1) and
+#   CREATE TABLE statements from the meta_cad.sorted.json file.
 #
 # Usage:
 #   python3 create_tables.py > create_tables.sql
@@ -38,6 +38,11 @@ def pg_type(typ, size):
     if t == "bigint":
         return "bigint"
     return "text"
+
+# Generate DROP TABLE IF EXISTS statement for all tables
+table_names = [table for table in meta.keys()]
+print("DROP TABLE IF EXISTS")
+print(",\n    ".join(table_names), "CASCADE;\n")
 
 # Iterate over tables and columns, print CREATE TABLE statements
 for table, columns in meta.items():
