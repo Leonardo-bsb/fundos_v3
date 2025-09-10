@@ -1,4 +1,3 @@
-
 -- Table: cad_fi
 CREATE TABLE cad_fi (
     "TP_FUNDO" varchar(20),
@@ -22,16 +21,16 @@ CREATE TABLE cad_fi (
     "TRIB_LPRAZO" varchar(3),
     "PUBLICO_ALVO" varchar(15),
     "ENTID_INVEST" varchar(1),
-    "TAXA_PERFM" numeric,
+    "TAXA_PERFM" real,
     "INF_TAXA_PERFM" varchar(400),
-    "TAXA_ADM" numeric,
+    "TAXA_ADM" real,
     "INF_TAXA_ADM" varchar(400),
     "VL_PATRIM_LIQ" numeric,
     "DT_PATRIM_LIQ" date,
     "DIRETOR" varchar(100),
     "CNPJ_ADMIN" varchar(20),
     "ADMIN" varchar(100),
-    "PF_PJ_GESTOR" varchar(2),
+    "PF_PJ_GESTOR" char(2),
     "CPF_CNPJ_GESTOR" varchar(20),
     "GESTOR" varchar(100),
     "CNPJ_AUDITOR" varchar(20),
@@ -159,7 +158,7 @@ CREATE TABLE cad_fi_hist_fic (
 CREATE TABLE cad_fi_hist_gestor (
     "CNPJ_FUNDO" varchar(20),
     "DT_REG" date,
-    "PF_PJ_GESTOR" varchar(2),
+    "PF_PJ_GESTOR" char(2),
     "CPF_CNPJ_GESTOR" varchar(20),
     "GESTOR" varchar(100),
     "DT_INI_GESTOR" date,
@@ -222,8 +221,8 @@ CREATE TABLE cad_fi_hist_trib_lprazo (
 
 -- Table: registro_classe
 CREATE TABLE registro_classe (
-    "ID_Registro_Fundo" text,
-    "ID_Registro_Classe" text,
+    "ID_Registro_Fundo" bigint,
+    "ID_Registro_Classe" bigint,
     "CNPJ_Classe" numeric,
     "Codigo_CVM" numeric,
     "Data_Registro" date,
@@ -255,7 +254,7 @@ CREATE TABLE registro_classe (
 
 -- Table: registro_fundo
 CREATE TABLE registro_fundo (
-    "ID_Registro_Fundo" text,
+    "ID_Registro_Fundo" bigint,
     "CNPJ_Fundo" numeric,
     "Codigo_CVM" numeric,
     "Data_Registro" date,
@@ -273,14 +272,14 @@ CREATE TABLE registro_fundo (
     "Diretor" varchar(100),
     "CNPJ_Administrador" numeric,
     "Administrador" varchar(100),
-    "Tipo_Pessoa_Gestor" varchar(2),
+    "Tipo_Pessoa_Gestor" char(2),
     "CPF_CNPJ_Gestor" numeric,
     "Gestor" varchar(100)
 );
 
 -- Table: registro_subclasse
 CREATE TABLE registro_subclasse (
-    "ID_Registro_Classe" text,
+    "ID_Registro_Classe" bigint,
     "ID_Subclasse" varchar(15),
     "Codigo_CVM" numeric,
     "Data_Constituicao" date,
@@ -291,3 +290,4 @@ CREATE TABLE registro_subclasse (
     "Exclusivo" varchar(1),
     "Publico_Alvo" varchar(15)
 );
+
