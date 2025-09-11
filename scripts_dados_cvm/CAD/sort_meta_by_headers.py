@@ -49,6 +49,7 @@ for table, meta_obj in meta.items():
     ordered = OrderedDict()
     missing_in_meta = []
     for col in table_headers:
+        
         if col in meta_obj:
             ordered[col] = meta_obj[col]
         else:
