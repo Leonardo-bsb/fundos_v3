@@ -1,25 +1,28 @@
 import json
+import subprocess
 
 # ---------------------------------------------------------------------------
 # Objective:
 #   Generate PostgreSQL DROP TABLE IF EXISTS statements (option 1) and
-#   CREATE TABLE statements from the meta_cad.sorted.json file.
+#   CREATE TABLE statements from the sorted meta produced by sort_meta_by_headers.py.
 #
 # Usage:
 #   python3 create_tables.py > create_tables.sql
 #   Then, in psql prompt: \i /home/leo/linguagens/fundos_v3/results_scripts/CAD/create_tables.sql
 #
 # Notes:
-#   - Reads meta_cad.sorted.json using Latin-1 encoding.
+#   - Calls sort_meta_by_headers.py and reads its output (latin1 encoding).
 #   - Maps types and sizes to PostgreSQL types.
 #   - Output is ready to be pasted or executed in psql.
 # ---------------------------------------------------------------------------
 
-meta_path = "/home/leo/linguagens/fundos_v3/results_scripts/CAD/meta_cad.sorted.json"
-
-# Load the sorted meta JSON
-with open(meta_path, encoding="latin1") as f:
-    meta = json.load(f)
+# Run sort_meta_by_headers.py and capture its output
+result = subprocess.run(
+    ["python3", "scripts_dados_cvm/CAD/sort_meta_by_headers.py"],
+    capture_output=True
+)
+meta_json = result.stdout.decode("latin1")
+meta = json.loads(meta_json)
 
 def pg_type(typ, size):
     """
