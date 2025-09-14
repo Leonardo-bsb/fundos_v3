@@ -1,5 +1,6 @@
 import subprocess
 import json
+import sys
 from collections import OrderedDict
 
 # ---------------------------------------------------------------------------
@@ -10,7 +11,15 @@ from collections import OrderedDict
 #     2. Extract meta info from meta files (format_meta.sh)
 #     3. Sort meta by headers (in memory)
 #     4. Generate SQL (in memory, print to terminal)
+#   Now receives CSV and META folder paths via command line arguments.
 # ---------------------------------------------------------------------------
+
+if len(sys.argv) != 3:
+    print(f"Usage: {sys.argv[0]} <csv_folder> <meta_folder>", file=sys.stderr)
+    sys.exit(1)
+
+csv_folder = sys.argv[1]
+meta_folder = sys.argv[2]
 
 def pg_type(typ, size):
     t = typ.lower()
@@ -29,14 +38,14 @@ def pg_type(typ, size):
 
 # Step 1: Extract headers from CSVs
 headers_json = subprocess.run(
-    ["bash", "scripts_dados_cvm/CAD/json_cad_headers.sh", "dados/CAD/DADOS"],
+    ["bash", "scripts_dados_cvm/CAD/json_cad_headers.sh", csv_folder],
     capture_output=True
 ).stdout.decode("latin1")
 headers = json.loads(headers_json)
 
 # Step 2: Extract meta info from meta files
 meta_json = subprocess.run(
-    ["bash", "scripts_dados_cvm/CAD/format_meta.sh", "dados/CAD/META"],
+    ["bash", "scripts_dados_cvm/CAD/format_meta.sh", meta_folder],
     capture_output=True
 ).stdout.decode("latin1")
 meta = json.loads(meta_json)

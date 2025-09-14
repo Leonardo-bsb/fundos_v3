@@ -8,7 +8,11 @@
 #   ./json_cad_headers.sh /caminho/para/dados/CAD/DADOS > headers.json
 # ---------------------------------------------------------------------------
 
-csv_dir="${1:-dados/CAD/DADOS}"
+csv_dir="$1"
+if [ -z "$csv_dir" ]; then
+  echo "Uso: $0 /caminho/para/dados/CAD/DADOS" >&2
+  exit 1
+fi
 
 echo "{"
 first=1
