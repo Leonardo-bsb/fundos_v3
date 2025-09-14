@@ -1,5 +1,6 @@
 import json
 import subprocess
+import sys
 from collections import OrderedDict
 
 # ---------------------------------------------------------------------------
@@ -10,19 +11,21 @@ from collections import OrderedDict
 # Inputs:
 #   - headers: output of scripts_dados_cvm/CAD/json_cad_headers.sh
 #   - meta: output of scripts_dados_cvm/CAD/format_meta.sh
+#   - Recebe os caminhos das pastas via argumentos de linha de comando.
 #
 # Output:
 #   - Prints the sorted JSON to the terminal (stdout).
-#
-# Notes:
-#   - Uses OrderedDict to preserve the desired order in the output JSON.
-#   - Emits warnings for columns present in headers but missing in meta and
-#     for tables present in headers but not in meta.
-#   - All encoding is set to latin1 for compatibility with original data.
 # ---------------------------------------------------------------------------
 
-headers_script = ["bash", "scripts_dados_cvm/CAD/json_cad_headers.sh", "dados/CAD/DADOS"]
-meta_script = ["bash", "scripts_dados_cvm/CAD/format_meta.sh", "dados/CAD/META"]
+if len(sys.argv) != 3:
+    print(f"Usage: {sys.argv[0]} <csv_folder> <meta_folder>", file=sys.stderr)
+    sys.exit(1)
+
+csv_folder = sys.argv[1]
+meta_folder = sys.argv[2]
+
+headers_script = ["bash", "scripts_dados_cvm/CAD/json_cad_headers.sh", csv_folder]
+meta_script = ["bash", "scripts_dados_cvm/CAD/format_meta.sh", meta_folder]
 
 # Run scripts and load JSON outputs (decode as latin1)
 headers_json = subprocess.run(headers_script, capture_output=True).stdout.decode("latin1")
