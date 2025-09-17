@@ -2,32 +2,50 @@
 # filepath: /home/leo/linguagens/fundos_v3/scripts_dados_cvm/DOC/find_meta_files.sh
 # ---------------------------------------------------------------------------
 # Objetivo:
-#   Gerar um objeto JSON válido, onde cada chave é o nome limpo do arquivo
-#   meta_*.txt (sem prefixo/sufixo) e o valor é o conteúdo do format_meta.sh,
-#   sem duplicar a chave.
+#   Gerar um objeto JSON onde cada chave é o nome único da coluna (segunda ordem)
+#   encontrada nos arquivos meta_*.txt das subpastas META, e o valor é a array
+#   correspondente (ex: ["numeric","Precis�o:17"]), sem repetir a chave dentro da array.
+#   As chaves aparecem em ordem alfabética.
 #
 # Uso:
-#   bash find_meta_files.sh > meta_files.json
+#   bash find_meta_files.sh <base_dir> > meta_files_columns.json
 # ---------------------------------------------------------------------------
 
-base_dir="dados/DOC"
+if [ $# -ne 1 ]; then
+  echo "Uso: $0 <base_dir>" >&2
+  exit 1
+fi
 
-# Cria uma lista de todos os arquivos meta_*.txt nas subpastas META
-mapfile -t meta_files < <(find "$base_dir" -type f -path "*/META/meta_*.txt")
+base_dir="$1"
+tmp_json=$(mktemp)
 
-echo "{"
-for i in "${!meta_files[@]}"; do
-  f="${meta_files[$i]}"
-  fname=$(basename "$f")
-  clean_name="${fname#meta_}"
-  clean_name="${clean_name%.txt}"
-  # Extrai só o valor do objeto usando jq
-  meta_json=$(bash scripts_dados_cvm/DOC/format_meta.sh "$f" | jq ".[\"$clean_name\"]")
-  # Adiciona vírgula exceto no primeiro elemento
-  if [ "$i" -ne 0 ]; then
-    echo ","
-  fi
-  echo -n "  \"${clean_name}\": $meta_json"
+# Para cada arquivo meta_*.txt, extrai as chaves (colunas) e arrays de valores (apenas o array interno)
+find "$base_dir" -type f -path "*/META/meta_*.txt" | while read -r f; do
+  bash scripts_dados_cvm/DOC/format_meta.sh "$f" | jq -c 'to_entries[] | [ .key, .value[0], .value[1] ]' >> "$tmp_json"
 done
+
+# Monta o JSON final, garantindo unicidade das chaves (a última ocorrência prevalece) e ordenando alfabeticamente
+echo "{"
+awk -F\" '
+  {
+    key = $2;
+    value_start = index($0, "[");
+    value = substr($0, value_start);
+    # value é do tipo ["key","tipo","tamanho"]
+    # Queremos ["tipo","tamanho"]
+    sub(/^\["[^"]+",/, "[", value);
+    data[key] = value;
+  }
+  END {
+    n = asorti(data, sorted_keys);
+    for (i = 1; i <= n; i++) {
+      k = sorted_keys[i];
+      if (i > 1) printf(",\n");
+      printf("  \"%s\": %s", k, data[k]);
+    }
+  }
+' "$tmp_json"
 echo
 echo "}"
+
+rm "$tmp_json"

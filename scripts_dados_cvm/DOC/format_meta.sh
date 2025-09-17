@@ -1,9 +1,10 @@
 #!/bin/bash
+# filepath: /home/leo/linguagens/fundos_v3/scripts_dados_cvm/DOC/format_meta.sh
 set -euo pipefail
 
 # Uso: ./format_meta.sh <arquivo_meta.txt | diretorio_com_txt>
-# - Diretório: gera um único JSON com uma chave por arquivo (sem meta_ e .txt)
-# - Arquivo: gera JSON com uma única chave
+# - Diretório: gera um único JSON com todas as colunas de todos os arquivos (sem chave de arquivo)
+# - Arquivo: gera JSON apenas com as colunas do arquivo (sem chave de arquivo)
 # Cada registro do META vira:  "CAMPO": ["TIPO","TAMANHO"]
 
 build_object_from_meta() {
@@ -38,7 +39,7 @@ BEGIN {
   if (length(name)==0) next
 
   if (count++ > 0) printf ",\n"
-  printf "    \"%s\": [\"%s\",\"%s\"]", name, typ, size
+  printf "  \"%s\": [\"%s\",\"%s\"]", name, typ, size
 }
 END { print "" }'
 }
@@ -51,32 +52,24 @@ fi
 in="$1"
 
 if [[ -d "$in" ]]; then
+  # Junta todas as colunas de todos os arquivos, sem chave de arquivo
   echo "{"
   first=1
   shopt -s nullglob
   for f in "$in"/*.txt; do
     [[ -f "$f" ]] || continue
-    fname="$(basename "$f")"
-    key="${fname%.txt}"
-    key="${key#meta_}"
     obj="$(build_object_from_meta "$f")"
     [[ -z "$obj" ]] && continue
     if [[ $first -eq 0 ]]; then echo ","; fi
-    echo "  \"$key\": {"
     echo "$obj"
-    echo "  }"
     first=0
   done
   echo "}"
 elif [[ -f "$in" ]]; then
-  fname="$(basename "$in")"
-  key="${fname%.txt}"
-  key="${key#meta_}"
+  # Apenas as colunas do arquivo, sem chave de arquivo
   obj="$(build_object_from_meta "$in")"
   echo "{"
-  echo "  \"$key\": {"
   echo "$obj"
-  echo "  }"
   echo "}"
 else
   echo "Erro: caminho não encontrado: $in" >&2
