@@ -1,0 +1,2244 @@
+{
+  "inf_diario_fi": {
+    "TP_FUNDO": [
+      "varchar",
+      "15"
+    ],
+    "CNPJ_FUNDO": [
+      "varchar",
+      "20"
+    ],
+    "DT_COMPTC": [
+      "date",
+      "10"
+    ],
+    "VL_TOTAL": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "VL_QUOTA": [
+      "numeric",
+      "Precis�o:27"
+    ],
+    "VL_PATRIM_LIQ": [
+      "numeric",
+      "Precis�o:22"
+    ],
+    "CAPTC_DIA": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "RESG_DIA": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "NR_COTST": [
+      "int",
+      "Precis�o:10"
+    ]
+  },
+  "extrato_fi": {
+    "TP_FUNDO_CLASSE": [
+      "varchar",
+      "15"
+    ],
+    "CNPJ_FUNDO_CLASSE": [
+      "varchar",
+      "20"
+    ],
+    "DENOM_SOCIAL": [
+      "varchar",
+      "100"
+    ],
+    "DT_COMPTC": [
+      "date",
+      "10"
+    ],
+    "CONDOM": [
+      "varchar",
+      "7"
+    ],
+    "NEGOC_MERC": [
+      "varchar",
+      "1"
+    ],
+    "MERCADO": [
+      "varchar",
+      "34"
+    ],
+    "TP_PRAZO": [
+      "varchar",
+      "13"
+    ],
+    "PRAZO": [
+      "varchar",
+      "200"
+    ],
+    "PUBLICO_ALVO": [
+      "varchar",
+      "1000"
+    ],
+    "REG_ANBIMA": [
+      "varchar",
+      "1"
+    ],
+    "CLASSE_ANBIMA": [
+      "varchar",
+      "100"
+    ],
+    "DISTRIB": [
+      "varchar",
+      "76"
+    ],
+    "POLIT_INVEST": [
+      "varchar",
+      "1000"
+    ],
+    "APLIC_MAX_FUNDO_LIGADO": [
+      "decimal",
+      "Precis�o:15"
+    ],
+    "RESULT_CART_INCORP_PL": [
+      "varchar",
+      "1"
+    ],
+    "FUNDO_COTAS": [
+      "varchar",
+      "1"
+    ],
+    "FUNDO_ESPELHO": [
+      "varchar",
+      "1"
+    ],
+    "APLIC_MIN": [
+      "decimal",
+      "Precis�o:15"
+    ],
+    "ATUALIZ_DIARIA_COTA": [
+      "varchar",
+      "1"
+    ],
+    "PRAZO_ATUALIZ_COTA": [
+      "varchar",
+      "500"
+    ],
+    "COTA_EMISSAO": [
+      "varchar",
+      "28"
+    ],
+    "COTA_PL": [
+      "varchar",
+      "53"
+    ],
+    "QT_DIA_CONVERSAO_COTA": [
+      "int",
+      "Precis�o:10"
+    ],
+    "QT_DIA_PAGTO_COTA": [
+      "int",
+      "Precis�o:10"
+    ],
+    "QT_DIA_RESGATE_COTAS": [
+      "int",
+      "Precis�o:10"
+    ],
+    "QT_DIA_PAGTO_RESGATE": [
+      "numeric",
+      "Precis�o:5"
+    ],
+    "TP_DIA_PAGTO_RESGATE": [
+      "varchar",
+      "13"
+    ],
+    "TAXA_SAIDA_PAGTO_RESGATE": [
+      "varchar",
+      "1"
+    ],
+    "TAXA_ADM": [
+      "numeric",
+      "Precis�o:14"
+    ],
+    "TAXA_CUSTODIA_MAX": [
+      "decimal",
+      "Precis�o:15"
+    ],
+    "EXISTE_TAXA_PERFM": [
+      "varchar",
+      "1"
+    ],
+    "TAXA_PERFM": [
+      "varchar",
+      "500"
+    ],
+    "PARAM_TAXA_PERFM": [
+      "varchar",
+      "50"
+    ],
+    "PR_INDICE_REFER_TAXA_PERFM": [
+      "numeric",
+      "Precis�o:27"
+    ],
+    "VL_CUPOM": [
+      "numeric",
+      "Precis�o:27"
+    ],
+    "CALC_TAXA_PERFM": [
+      "varchar",
+      "7"
+    ],
+    "INF_TAXA_PERFM": [
+      "varchar",
+      "400"
+    ],
+    "EXISTE_TAXA_INGRESSO": [
+      "varchar",
+      "1"
+    ],
+    "TAXA_INGRESSO_REAL": [
+      "numeric",
+      "Precis�o:27"
+    ],
+    "TAXA_INGRESSO_PR": [
+      "numeric",
+      "Precis�o:27"
+    ],
+    "EXISTE_TAXA_SAIDA": [
+      "varchar",
+      "1"
+    ],
+    "TAXA_SAIDA_REAL": [
+      "numeric",
+      "Precis�o:27"
+    ],
+    "TAXA_SAIDA_PR": [
+      "numeric",
+      "Precis�o:27"
+    ],
+    "OPER_DERIV": [
+      "varchar",
+      "1"
+    ],
+    "FINALIDADE_OPER_DERIV": [
+      "varchar",
+      "11"
+    ],
+    "OPER_VL_SUPERIOR_PL": [
+      "varchar",
+      "1"
+    ],
+    "FATOR_OPER_VL_SUPERIOR_PL": [
+      "numeric",
+      "Precis�o:6"
+    ],
+    "CONTRAP_LIGADO": [
+      "varchar",
+      "1"
+    ],
+    "INVEST_EXTERIOR": [
+      "varchar",
+      "1"
+    ],
+    "APLIC_MAX_ATIVO_EXTERIOR": [
+      "numeric",
+      "Precis�o:7"
+    ],
+    "ATIVO_CRED_PRIV": [
+      "varchar",
+      "1"
+    ],
+    "APLIC_MAX_ATIVO_CRED_PRIV": [
+      "numeric",
+      "Precis�o:27"
+    ],
+    "PR_INSTITUICAO_FINANC_MIN": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_INSTITUICAO_FINANC_MAX": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_CIA_MIN": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_CIA_MAX": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_FI_MIN": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_FI_MAX": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_UNIAO_MIN": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_UNIAO_MAX": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_ADMIN_GESTOR_MIN": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_ADMIN_GESTOR_MAX": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_EMISSOR_OUTRO_MIN": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_EMISSOR_OUTRO_MAX": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_COTA_FI_MIN": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_COTA_FI_MAX": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_COTA_FIC_MIN": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_COTA_FIC_MAX": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_COTA_FI_QUALIF_MIN": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_COTA_FI_QUALIF_MAX": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_COTA_FIC_QUALIF_MIN": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_COTA_FIC_QUALIF_MAX": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_COTA_FI_PROF_MIN": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_COTA_FI_PROF_MAX": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_COTA_FIC_PROF_MIN": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_COTA_FIC_PROF_MAX": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_COTA_FII_MIN": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_COTA_FII_MAX": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_COTA_FIDC_MIN": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_COTA_FIDC_MAX": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_COTA_FICFIDC_MIN": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_COTA_FICFIDC_MAX": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_COTA_FIDC_NP_MIN": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_COTA_FIDC_NP_MAX": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_COTA_FICFIDC_NP_MIN": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_COTA_FICFIDC_NP_MAX": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_COTA_ETF_MIN": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_COTA_ETF_MAX": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_CRI_MIN": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_CRI_MAX": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_TITPUB_MIN": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_TITPUB_MAX": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_OURO_MIN": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_OURO_MAX": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_TIT_INSTITUICAO_FINANC_BACEN_MIN": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_TIT_INSTITUICAO_FINANC_BACEN_MAX": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_VLMOB_MIN": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_VLMOB_MAX": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_ACAO_MIN": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_ACAO_MAX": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_DEBENTURE_MIN": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_DEBENTURE_MAX": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_NP_MIN": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_NP_MAX": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_COMPROM_MIN": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_COMPROM_MAX": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_DERIV_MIN": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_DERIV_MAX": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_ATIVO_OUTRO_MIN": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_ATIVO_OUTRO_MAX": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_COTA_FMIEE_MIN": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_COTA_FMIEE_MAX": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_COTA_FIP_MIN": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_COTA_FIP_MAX": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_COTA_FICFIP_MIN": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_COTA_FICFIP_MAX": [
+      "numeric",
+      "Precis�o:10"
+    ]
+  },
+  "cda_fi_BLC_5": {
+    "TP_FUNDO": [
+      "varchar",
+      "15"
+    ],
+    "CNPJ_FUNDO": [
+      "varchar",
+      "20"
+    ],
+    "DENOM_SOCIAL": [
+      "varchar",
+      "100"
+    ],
+    "DT_COMPTC": [
+      "date",
+      "10"
+    ],
+    "TP_APLIC": [
+      "varchar",
+      "150"
+    ],
+    "TP_ATIVO": [
+      "varchar",
+      "250"
+    ],
+    "EMISSOR_LIGADO": [
+      "varchar",
+      "1"
+    ],
+    "TP_NEGOC": [
+      "varchar",
+      "24"
+    ],
+    "QT_VENDA_NEGOC": [
+      "numeric",
+      "Precis�o:21"
+    ],
+    "VL_VENDA_NEGOC": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "QT_AQUIS_NEGOC": [
+      "numeric",
+      "Precis�o:21"
+    ],
+    "VL_AQUIS_NEGOC": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "QT_POS_FINAL": [
+      "numeric",
+      "Precis�o:21"
+    ],
+    "VL_MERC_POS_FINAL": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "VL_CUSTO_POS_FINAL": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "DT_CONFID_APLIC": [
+      "date",
+      "10"
+    ],
+    "CNPJ_EMISSOR": [
+      "varchar",
+      "20"
+    ],
+    "EMISSOR": [
+      "varchar",
+      "255"
+    ],
+    "DT_VENC": [
+      "date",
+      "10"
+    ],
+    "TITULO_POSFX": [
+      "varchar",
+      "1"
+    ],
+    "CD_INDEXADOR_POSFX": [
+      "varchar",
+      "50"
+    ],
+    "DS_INDEXADOR_POSFX": [
+      "varchar",
+      "100"
+    ],
+    "PR_INDEXADOR_POSFX": [
+      "numeric",
+      "Precis�o:9"
+    ],
+    "PR_CUPOM_POSFX": [
+      "numeric",
+      "Precis�o:9"
+    ],
+    "PR_TAXA_PREFX": [
+      "numeric",
+      "Precis�o:9"
+    ],
+    "RISCO_EMISSOR": [
+      "char",
+      "1"
+    ],
+    "AG_RISCO": [
+      "varchar",
+      "100"
+    ],
+    "DT_RISCO": [
+      "date",
+      "10"
+    ],
+    "GRAU_RISCO": [
+      "varchar",
+      "50"
+    ]
+  },
+  "cda_fi_BLC_8": {
+    "TP_FUNDO_CLASSE": [
+      "varchar",
+      "15"
+    ],
+    "CNPJ_FUNDO_CLASSE": [
+      "varchar",
+      "20"
+    ],
+    "DENOM_SOCIAL": [
+      "varchar",
+      "100"
+    ],
+    "DT_COMPTC": [
+      "date",
+      "10"
+    ],
+    "TP_APLIC": [
+      "varchar",
+      "150"
+    ],
+    "TP_ATIVO": [
+      "varchar",
+      "250"
+    ],
+    "EMISSOR_LIGADO": [
+      "varchar",
+      "1"
+    ],
+    "TP_NEGOC": [
+      "varchar",
+      "24"
+    ],
+    "QT_VENDA_NEGOC": [
+      "numeric",
+      "Precis�o:21"
+    ],
+    "VL_VENDA_NEGOC": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "QT_AQUIS_NEGOC": [
+      "numeric",
+      "Precis�o:21"
+    ],
+    "VL_AQUIS_NEGOC": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "QT_POS_FINAL": [
+      "numeric",
+      "Precis�o:21"
+    ],
+    "VL_MERC_POS_FINAL": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "VL_CUSTO_POS_FINAL": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "DT_CONFID_APLIC": [
+      "date",
+      "10"
+    ],
+    "DS_ATIVO": [
+      "varchar",
+      "255"
+    ],
+    "PF_PJ_EMISSOR": [
+      "varchar",
+      "2"
+    ],
+    "CPF_CNPJ_EMISSOR": [
+      "numeric",
+      "Precis�o:18"
+    ],
+    "EMISSOR": [
+      "varchar",
+      "255"
+    ]
+  },
+  "cda_fi_BLC_7": {
+    "TP_FUNDO": [
+      "varchar",
+      "15"
+    ],
+    "CNPJ_FUNDO": [
+      "varchar",
+      "20"
+    ],
+    "DENOM_SOCIAL": [
+      "varchar",
+      "100"
+    ],
+    "DT_COMPTC": [
+      "date",
+      "10"
+    ],
+    "TP_APLIC": [
+      "varchar",
+      "150"
+    ],
+    "TP_ATIVO": [
+      "varchar",
+      "250"
+    ],
+    "EMISSOR_LIGADO": [
+      "varchar",
+      "1"
+    ],
+    "TP_NEGOC": [
+      "varchar",
+      "24"
+    ],
+    "QT_VENDA_NEGOC": [
+      "numeric",
+      "Precis�o:21"
+    ],
+    "VL_VENDA_NEGOC": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "QT_AQUIS_NEGOC": [
+      "numeric",
+      "Precis�o:21"
+    ],
+    "VL_AQUIS_NEGOC": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "QT_POS_FINAL": [
+      "numeric",
+      "Precis�o:21"
+    ],
+    "VL_MERC_POS_FINAL": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "VL_CUSTO_POS_FINAL": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "DT_CONFID_APLIC": [
+      "date",
+      "10"
+    ],
+    "INVEST_COLETIVO": [
+      "char",
+      "1"
+    ],
+    "INVEST_COLETIVO_GESTOR": [
+      "char",
+      "1"
+    ],
+    "EMISSOR": [
+      "varchar",
+      "255"
+    ],
+    "DT_VENC": [
+      "date",
+      "10"
+    ],
+    "CD_PAIS": [
+      "int",
+      "Precis�o:10"
+    ],
+    "PAIS": [
+      "varchar",
+      "25"
+    ],
+    "CD_BV_MERC": [
+      "varchar",
+      "5"
+    ],
+    "BV_MERC": [
+      "varchar",
+      "47"
+    ],
+    "CD_ATIVO_BV_MERC": [
+      "char",
+      "12"
+    ],
+    "RISCO_EMISSOR": [
+      "char",
+      "1"
+    ],
+    "AG_RISCO": [
+      "varchar",
+      "100"
+    ],
+    "DT_RISCO": [
+      "date",
+      "10"
+    ],
+    "GRAU_RISCO": [
+      "varchar",
+      "50"
+    ],
+    "DS_ATIVO_EXTERIOR": [
+      "varchar",
+      "50"
+    ],
+    "QT_ATIVO_EXTERIOR": [
+      "numeric",
+      "Precis�o:18"
+    ],
+    "VL_ATIVO_EXTERIOR": [
+      "float",
+      "Precis�o:53"
+    ]
+  },
+  "cda_fi_PL": {
+    "TP_FUNDO_CLASSE": [
+      "varchar",
+      "15"
+    ],
+    "CNPJ_FUNDO_CLASSE": [
+      "varchar",
+      "20"
+    ],
+    "DENOM_SOCIAL": [
+      "varchar",
+      "100"
+    ],
+    "DT_COMPTC": [
+      "date",
+      "10"
+    ],
+    "VL_PATRIM_LIQ": [
+      "numeric",
+      "Precis�o:22"
+    ]
+  },
+  "cda_fi_BLC_6": {
+    "TP_FUNDO_CLASSE": [
+      "varchar",
+      "15"
+    ],
+    "CNPJ_FUNDO_CLASSE": [
+      "varchar",
+      "20"
+    ],
+    "DENOM_SOCIAL": [
+      "varchar",
+      "100"
+    ],
+    "DT_COMPTC": [
+      "date",
+      "10"
+    ],
+    "TP_APLIC": [
+      "varchar",
+      "150"
+    ],
+    "TP_ATIVO": [
+      "varchar",
+      "250"
+    ],
+    "EMISSOR_LIGADO": [
+      "varchar",
+      "1"
+    ],
+    "TP_NEGOC": [
+      "varchar",
+      "24"
+    ],
+    "QT_VENDA_NEGOC": [
+      "numeric",
+      "Precis�o:21"
+    ],
+    "VL_VENDA_NEGOC": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "QT_AQUIS_NEGOC": [
+      "numeric",
+      "Precis�o:21"
+    ],
+    "VL_AQUIS_NEGOC": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "QT_POS_FINAL": [
+      "numeric",
+      "Precis�o:21"
+    ],
+    "VL_MERC_POS_FINAL": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "VL_CUSTO_POS_FINAL": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "DT_CONFID_APLIC": [
+      "date",
+      "10"
+    ],
+    "PF_PJ_EMISSOR": [
+      "varchar",
+      "2"
+    ],
+    "CPF_CNPJ_EMISSOR": [
+      "numeric",
+      "Precis�o:18"
+    ],
+    "EMISSOR": [
+      "varchar",
+      "255"
+    ],
+    "DT_VENC": [
+      "date",
+      "10"
+    ],
+    "TITULO_POSFX": [
+      "varchar",
+      "1"
+    ],
+    "CD_INDEXADOR_POSFX": [
+      "varchar",
+      "50"
+    ],
+    "DS_INDEXADOR_POSFX": [
+      "varchar",
+      "100"
+    ],
+    "PR_INDEXADOR_POSFX": [
+      "numeric",
+      "Precis�o:9"
+    ],
+    "PR_CUPOM_POSFX": [
+      "numeric",
+      "Precis�o:9"
+    ],
+    "PR_TAXA_PREFX": [
+      "numeric",
+      "Precis�o:9"
+    ],
+    "TITULO_CETIP": [
+      "varchar",
+      "1"
+    ],
+    "TITULO_GARANTIA": [
+      "varchar",
+      "1"
+    ],
+    "CNPJ_INSTITUICAO_FINANC_COOBR": [
+      "varchar",
+      "20"
+    ]
+  },
+  "cda_fi_BLC_4": {
+    "TP_FUNDO": [
+      "varchar",
+      "15"
+    ],
+    "CNPJ_FUNDO": [
+      "varchar",
+      "20"
+    ],
+    "DENOM_SOCIAL": [
+      "varchar",
+      "100"
+    ],
+    "DT_COMPTC": [
+      "date",
+      "10"
+    ],
+    "TP_APLIC": [
+      "varchar",
+      "150"
+    ],
+    "TP_ATIVO": [
+      "varchar",
+      "250"
+    ],
+    "EMISSOR_LIGADO": [
+      "varchar",
+      "1"
+    ],
+    "TP_NEGOC": [
+      "varchar",
+      "24"
+    ],
+    "QT_VENDA_NEGOC": [
+      "numeric",
+      "Precis�o:21"
+    ],
+    "VL_VENDA_NEGOC": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "QT_AQUIS_NEGOC": [
+      "numeric",
+      "Precis�o:21"
+    ],
+    "VL_AQUIS_NEGOC": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "QT_POS_FINAL": [
+      "numeric",
+      "Precis�o:21"
+    ],
+    "VL_MERC_POS_FINAL": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "VL_CUSTO_POS_FINAL": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "DT_CONFID_APLIC": [
+      "date",
+      "10"
+    ],
+    "CD_ATIVO": [
+      "varchar",
+      "255"
+    ],
+    "DS_ATIVO": [
+      "varchar",
+      "255"
+    ],
+    "CD_ISIN": [
+      "varchar",
+      "12"
+    ],
+    "DT_INI_VIGENCIA": [
+      "date",
+      "10"
+    ],
+    "DT_FIM_VIGENCIA": [
+      "date",
+      "10"
+    ]
+  },
+  "cda_fi_BLC_3": {
+    "TP_FUNDO": [
+      "varchar",
+      "15"
+    ],
+    "CNPJ_FUNDO": [
+      "varchar",
+      "20"
+    ],
+    "DENOM_SOCIAL": [
+      "varchar",
+      "100"
+    ],
+    "DT_COMPTC": [
+      "date",
+      "10"
+    ],
+    "TP_APLIC": [
+      "varchar",
+      "150"
+    ],
+    "TP_ATIVO": [
+      "varchar",
+      "250"
+    ],
+    "EMISSOR_LIGADO": [
+      "varchar",
+      "1"
+    ],
+    "TP_NEGOC": [
+      "varchar",
+      "24"
+    ],
+    "QT_VENDA_NEGOC": [
+      "numeric",
+      "Precis�o:21"
+    ],
+    "VL_VENDA_NEGOC": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "QT_AQUIS_NEGOC": [
+      "numeric",
+      "Precis�o:21"
+    ],
+    "VL_AQUIS_NEGOC": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "QT_POS_FINAL": [
+      "numeric",
+      "Precis�o:21"
+    ],
+    "VL_MERC_POS_FINAL": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "VL_CUSTO_POS_FINAL": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "DT_CONFID_APLIC": [
+      "date",
+      "10"
+    ],
+    "CD_SWAP": [
+      "varchar",
+      "50"
+    ],
+    "DS_SWAP": [
+      "varchar",
+      "100"
+    ]
+  },
+  "cda_fi_BLC_2": {
+    "TP_FUNDO": [
+      "varchar",
+      "15"
+    ],
+    "CNPJ_FUNDO": [
+      "varchar",
+      "20"
+    ],
+    "DENOM_SOCIAL": [
+      "varchar",
+      "100"
+    ],
+    "DT_COMPTC": [
+      "date",
+      "10"
+    ],
+    "TP_APLIC": [
+      "varchar",
+      "150"
+    ],
+    "TP_ATIVO": [
+      "varchar",
+      "250"
+    ],
+    "EMISSOR_LIGADO": [
+      "varchar",
+      "1"
+    ],
+    "TP_NEGOC": [
+      "varchar",
+      "24"
+    ],
+    "QT_VENDA_NEGOC": [
+      "numeric",
+      "Precis�o:21"
+    ],
+    "VL_VENDA_NEGOC": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "QT_AQUIS_NEGOC": [
+      "numeric",
+      "Precis�o:21"
+    ],
+    "VL_AQUIS_NEGOC": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "QT_POS_FINAL": [
+      "numeric",
+      "Precis�o:21"
+    ],
+    "VL_MERC_POS_FINAL": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "VL_CUSTO_POS_FINAL": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "DT_CONFID_APLIC": [
+      "date",
+      "10"
+    ]
+  },
+  "cda_fiim_CONFID": {
+    "TP_FUNDO_CLASSE": [
+      "varchar",
+      "15"
+    ],
+    "CNPJ_FUNDO_CLASSE": [
+      "varchar",
+      "20"
+    ],
+    "DENOM_SOCIAL": [
+      "varchar",
+      "100"
+    ],
+    "DT_COMPTC": [
+      "date",
+      "10"
+    ],
+    "ID_DOC": [
+      "int",
+      "Precis�o:10"
+    ],
+    "TP_APLIC": [
+      "varchar",
+      "150"
+    ],
+    "VL_VENDA_NEGOC": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "VL_AQUIS_NEGOC": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "VL_MERC_POS_FINAL": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "VL_CUSTO_POS_FINAL": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "DT_CONFID_APLIC": [
+      "date",
+      "10"
+    ]
+  },
+  "cda_fi_CONFID": {
+    "TP_FUNDO_CLASSE": [
+      "varchar",
+      "15"
+    ],
+    "CNPJ_FUNDO_CLASSE": [
+      "varchar",
+      "20"
+    ],
+    "DENOM_SOCIAL": [
+      "varchar",
+      "100"
+    ],
+    "DT_COMPTC": [
+      "date",
+      "10"
+    ],
+    "TP_APLIC": [
+      "varchar",
+      "150"
+    ],
+    "VL_VENDA_NEGOC": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "VL_AQUIS_NEGOC": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "VL_MERC_POS_FINAL": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "VL_CUSTO_POS_FINAL": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "DT_CONFID_APLIC": [
+      "date",
+      "10"
+    ]
+  },
+  "cda_fiim": {
+    "TP_FUNDO_CLASSE": [
+      "varchar",
+      "15"
+    ],
+    "CNPJ_FUNDO_CLASSE": [
+      "varchar",
+      "20"
+    ],
+    "DENOM_SOCIAL": [
+      "varchar",
+      "100"
+    ],
+    "DT_COMPTC": [
+      "date",
+      "10"
+    ],
+    "ID_DOC": [
+      "int",
+      "Precis�o:10"
+    ],
+    "VL_PATRIM_LIQ": [
+      "numeric",
+      "Precis�o:22"
+    ],
+    "TP_APLIC": [
+      "varchar",
+      "150"
+    ],
+    "TP_ATIVO": [
+      "varchar",
+      "250"
+    ],
+    "EMISSOR_LIGADO": [
+      "varchar",
+      "1"
+    ],
+    "TP_NEGOC": [
+      "varchar",
+      "24"
+    ],
+    "QT_VENDA_NEGOC": [
+      "numeric",
+      "Precis�o:21"
+    ],
+    "VL_VENDA_NEGOC": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "QT_AQUIS_NEGOC": [
+      "numeric",
+      "Precis�o:21"
+    ],
+    "VL_AQUIS_NEGOC": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "QT_POS_FINAL": [
+      "numeric",
+      "Precis�o:21"
+    ],
+    "VL_MERC_POS_FINAL": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "VL_CUSTO_POS_FINAL": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "DT_CONFID_APLIC": [
+      "date",
+      "10"
+    ],
+    "CD_ATIVO": [
+      "varchar",
+      "255"
+    ],
+    "DS_ATIVO": [
+      "varchar",
+      "255"
+    ],
+    "DT_VENC": [
+      "date",
+      "10"
+    ],
+    "PF_PJ_EMISSOR": [
+      "varchar",
+      "2"
+    ],
+    "CPF_CNPJ_EMISSOR": [
+      "numeric",
+      "Precis�o:18"
+    ],
+    "EMISSOR": [
+      "varchar",
+      "255"
+    ],
+    "RISCO_EMISSOR": [
+      "char",
+      "1"
+    ],
+    "CD_SELIC": [
+      "varchar",
+      "6"
+    ],
+    "DT_INI_VIGENCIA": [
+      "date",
+      "10"
+    ],
+    "CD_PAIS": [
+      "int",
+      "Precis�o:10"
+    ],
+    "PAIS": [
+      "varchar",
+      "25"
+    ],
+    "CD_BV_MERC": [
+      "varchar",
+      "5"
+    ],
+    "BV_MERC": [
+      "varchar",
+      "47"
+    ]
+  },
+  "cda_fi_BLC_1": {
+    "TP_FUNDO_CLASSE": [
+      "varchar",
+      "15"
+    ],
+    "CNPJ_FUNDO_CLASSE": [
+      "varchar",
+      "20"
+    ],
+    "DENOM_SOCIAL": [
+      "varchar",
+      "100"
+    ],
+    "DT_COMPTC": [
+      "date",
+      "10"
+    ],
+    "TP_APLIC": [
+      "varchar",
+      "150"
+    ],
+    "TP_ATIVO": [
+      "varchar",
+      "250"
+    ],
+    "EMISSOR_LIGADO": [
+      "varchar",
+      "1"
+    ],
+    "TP_NEGOC": [
+      "varchar",
+      "24"
+    ],
+    "QT_VENDA_NEGOC": [
+      "numeric",
+      "Precis�o:21"
+    ],
+    "VL_VENDA_NEGOC": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "QT_AQUIS_NEGOC": [
+      "numeric",
+      "Precis�o:21"
+    ],
+    "VL_AQUIS_NEGOC": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "QT_POS_FINAL": [
+      "numeric",
+      "Precis�o:21"
+    ],
+    "VL_MERC_POS_FINAL": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "VL_CUSTO_POS_FINAL": [
+      "numeric",
+      "Precis�o:17"
+    ],
+    "DT_CONFID_APLIC": [
+      "date",
+      "10"
+    ],
+    "TP_TITPUB": [
+      "varchar",
+      "50"
+    ],
+    "CD_ISIN": [
+      "varchar",
+      "12"
+    ],
+    "CD_SELIC": [
+      "varchar",
+      "6"
+    ],
+    "DT_EMISSAO": [
+      "date",
+      "10"
+    ],
+    "DT_VENC": [
+      "date",
+      "10"
+    ]
+  },
+  "balancete_fi": {
+    "CNPJ_FUNDO": [
+      "varchar",
+      "20"
+    ],
+    "DT_COMPTC": [
+      "date",
+      "10"
+    ],
+    "PLANO_CONTA_BALCTE": [
+      "varchar",
+      "5"
+    ],
+    "CD_CONTA_BALCTE": [
+      "char",
+      "8"
+    ],
+    "VL_SALDO_BALCTE": [
+      "numeric",
+      "Precis�o:23"
+    ]
+  },
+  "eventual_fi": {
+    "TP_FUNDO": [
+      "varchar",
+      "15"
+    ],
+    "CNPJ_FUNDO": [
+      "varchar",
+      "20"
+    ],
+    "DENOM_SOCIAL": [
+      "varchar",
+      "100"
+    ],
+    "DT_COMPTC": [
+      "date",
+      "10"
+    ],
+    "DT_RECEB": [
+      "date",
+      "10"
+    ],
+    "TP_DOC": [
+      "varchar",
+      "15"
+    ],
+    "NM_ARQ": [
+      "varchar",
+      "100"
+    ],
+    "ID_DOC": [
+      "int",
+      "Precis�o:10"
+    ],
+    "LINK_ARQ": [
+      "varchar",
+      "141"
+    ],
+    "RESULTADO_AUDITORIA": [
+      "varchar",
+      "100"
+    ]
+  },
+  "perfil_mensal_fi": {
+    "TP_FUNDO_CLASSE": [
+      "varchar",
+      "15"
+    ],
+    "CNPJ_FUNDO_CLASSE": [
+      "varchar",
+      "20"
+    ],
+    "DENOM_SOCIAL": [
+      "varchar",
+      "100"
+    ],
+    "DT_COMPTC": [
+      "date",
+      "10"
+    ],
+    "VERSAO": [
+      "numeric",
+      "Precis�o:2"
+    ],
+    "NR_COTST_PF_PB": [
+      "int",
+      "Precis�o:10"
+    ],
+    "NR_COTST_PF_VAREJO": [
+      "int",
+      "Precis�o:10"
+    ],
+    "NR_COTST_PJ_NAO_FINANC_PB": [
+      "int",
+      "Precis�o:10"
+    ],
+    "NR_COTST_PJ_NAO_FINANC_VAREJO": [
+      "int",
+      "Precis�o:10"
+    ],
+    "NR_COTST_BANCO": [
+      "int",
+      "Precis�o:10"
+    ],
+    "NR_COTST_CORRETORA_DISTRIB": [
+      "int",
+      "Precis�o:10"
+    ],
+    "NR_COTST_PJ_FINANC": [
+      "int",
+      "Precis�o:10"
+    ],
+    "NR_COTST_INVNR": [
+      "int",
+      "Precis�o:10"
+    ],
+    "NR_COTST_EAPC": [
+      "int",
+      "Precis�o:10"
+    ],
+    "NR_COTST_EFPC": [
+      "int",
+      "Precis�o:10"
+    ],
+    "NR_COTST_RPPS": [
+      "int",
+      "Precis�o:10"
+    ],
+    "NR_COTST_SEGUR": [
+      "int",
+      "Precis�o:10"
+    ],
+    "NR_COTST_CAPITALIZ": [
+      "int",
+      "Precis�o:10"
+    ],
+    "NR_COTST_FI_CLUBE": [
+      "int",
+      "Precis�o:10"
+    ],
+    "NR_COTST_DISTRIB": [
+      "int",
+      "Precis�o:10"
+    ],
+    "NR_COTST_OUTRO": [
+      "int",
+      "Precis�o:10"
+    ],
+    "PR_PL_COTST_PF_PB": [
+      "numeric",
+      "Precis�o:4"
+    ],
+    "PR_PL_COTST_PF_VAREJO": [
+      "numeric",
+      "Precis�o:4"
+    ],
+    "PR_PL_COTST_PJ_NAO_FINANC_PB": [
+      "numeric",
+      "Precis�o:4"
+    ],
+    "PR_PL_COTST_PJ_NAO_FINANC_VAREJO": [
+      "numeric",
+      "Precis�o:4"
+    ],
+    "PR_PL_COTST_BANCO": [
+      "numeric",
+      "Precis�o:4"
+    ],
+    "PR_PL_COTST_CORRETORA_DISTRIB": [
+      "numeric",
+      "Precis�o:4"
+    ],
+    "PR_PL_COTST_PJ_FINANC": [
+      "numeric",
+      "Precis�o:4"
+    ],
+    "PR_PL_COTST_INVNR": [
+      "numeric",
+      "Precis�o:4"
+    ],
+    "PR_PL_COTST_EAPC": [
+      "numeric",
+      "Precis�o:4"
+    ],
+    "PR_PL_COTST_EFPC": [
+      "numeric",
+      "Precis�o:4"
+    ],
+    "PR_PL_COTST_RPPS": [
+      "numeric",
+      "Precis�o:4"
+    ],
+    "PR_PL_COTST_SEGUR": [
+      "numeric",
+      "Precis�o:4"
+    ],
+    "PR_PL_COTST_CAPITALIZ": [
+      "numeric",
+      "Precis�o:4"
+    ],
+    "PR_PL_COTST_FI_CLUBE": [
+      "numeric",
+      "Precis�o:4"
+    ],
+    "PR_PL_COTST_DISTRIB": [
+      "numeric",
+      "Precis�o:4"
+    ],
+    "PR_PL_COTST_OUTRO": [
+      "numeric",
+      "Precis�o:4"
+    ],
+    "VOTO_ADMIN_ASSEMB": [
+      "varchar",
+      "4000"
+    ],
+    "JUSTIF_VOTO_ADMIN_ASSEMB": [
+      "varchar",
+      "4000"
+    ],
+    "PR_VAR_CARTEIRA": [
+      "numeric",
+      "Precis�o:14"
+    ],
+    "MOD_VAR": [
+      "char",
+      "50"
+    ],
+    "PRAZO_CARTEIRA_TITULO": [
+      "numeric",
+      "Precis�o:14"
+    ],
+    "DELIB_ASSEMB": [
+      "varchar",
+      "4000"
+    ],
+    "VL_CONTRATO_COMPRA_DOLAR": [
+      "numeric",
+      "Precis�o:12"
+    ],
+    "VL_CONTRATO_VENDA_DOLAR": [
+      "numeric",
+      "Precis�o:12"
+    ],
+    "PR_VARIACAO_DIARIA_COTA": [
+      "numeric",
+      "Precis�o:14"
+    ],
+    "FPR": [
+      "varchar",
+      "50"
+    ],
+    "CENARIO_FPR_IBOVESPA": [
+      "varchar",
+      "150"
+    ],
+    "CENARIO_FPR_JUROS": [
+      "varchar",
+      "150"
+    ],
+    "CENARIO_FPR_CUPOM": [
+      "varchar",
+      "150"
+    ],
+    "CENARIO_FPR_DOLAR": [
+      "varchar",
+      "150"
+    ],
+    "CENARIO_FPR_OUTRO": [
+      "varchar",
+      "150"
+    ],
+    "PR_VARIACAO_DIARIA_COTA_ESTRESSE": [
+      "numeric",
+      "Precis�o:14"
+    ],
+    "PR_VARIACAO_DIARIA_PL_TAXA_ANUAL": [
+      "numeric",
+      "Precis�o:16"
+    ],
+    "PR_VARIACAO_DIARIA_PL_TAXA_CAMBIO": [
+      "numeric",
+      "Precis�o:16"
+    ],
+    "PR_VARIACAO_DIARIA_PL_IBOVESPA": [
+      "numeric",
+      "Precis�o:16"
+    ],
+    "FATOR_RISCO_OUTRO": [
+      "varchar",
+      "400"
+    ],
+    "PR_VARIACAO_DIARIA_OUTRO": [
+      "numeric",
+      "Precis�o:16"
+    ],
+    "PR_COLATERAL_DERIV": [
+      "numeric",
+      "Precis�o:14"
+    ],
+    "FATOR_RISCO_NOCIONAL": [
+      "varchar",
+      "100"
+    ],
+    "VL_FATOR_RISCO_NOCIONAL_LONG_IBOVESPA": [
+      "numeric",
+      "Precis�o:14"
+    ],
+    "VL_FATOR_RISCO_NOCIONAL_LONG_JUROS": [
+      "numeric",
+      "Precis�o:14"
+    ],
+    "VL_FATOR_RISCO_NOCIONAL_LONG_CUPOM": [
+      "numeric",
+      "Precis�o:14"
+    ],
+    "VL_FATOR_RISCO_NOCIONAL_LONG_DOLAR": [
+      "numeric",
+      "Precis�o:14"
+    ],
+    "VL_FATOR_RISCO_NOCIONAL_LONG_OUTRO": [
+      "numeric",
+      "Precis�o:14"
+    ],
+    "VL_FATOR_RISCO_NOCIONAL_SHORT_IBOVESPA": [
+      "numeric",
+      "Precis�o:14"
+    ],
+    "VL_FATOR_RISCO_NOCIONAL_SHORT_JUROS": [
+      "numeric",
+      "Precis�o:14"
+    ],
+    "VL_FATOR_RISCO_NOCIONAL_SHORT_CUPOM": [
+      "numeric",
+      "Precis�o:14"
+    ],
+    "VL_FATOR_RISCO_NOCIONAL_SHORT_DOLAR": [
+      "numeric",
+      "Precis�o:14"
+    ],
+    "VL_FATOR_RISCO_NOCIONAL_SHORT_OUTRO": [
+      "numeric",
+      "Precis�o:14"
+    ],
+    "PF_PJ_COMITENTE_1": [
+      "char",
+      "2"
+    ],
+    "CPF_CNPJ_COMITENTE_1": [
+      "varchar",
+      "20"
+    ],
+    "COMITENTE_LIGADO_1": [
+      "char",
+      "1"
+    ],
+    "PR_COMITENTE_1": [
+      "numeric",
+      "Precis�o:14"
+    ],
+    "PF_PJ_COMITENTE_2": [
+      "char",
+      "2"
+    ],
+    "CPF_CNPJ_COMITENTE_2": [
+      "varchar",
+      "20"
+    ],
+    "COMITENTE_LIGADO_2": [
+      "char",
+      "1"
+    ],
+    "PR_COMITENTE_2": [
+      "numeric",
+      "Precis�o:14"
+    ],
+    "PF_PJ_COMITENTE_3": [
+      "char",
+      "2"
+    ],
+    "CPF_CNPJ_COMITENTE_3": [
+      "varchar",
+      "20"
+    ],
+    "COMITENTE_LIGADO_3": [
+      "char",
+      "1"
+    ],
+    "PR_COMITENTE_3": [
+      "numeric",
+      "Precis�o:14"
+    ],
+    "PR_ATIVO_EMISSOR_LIGADO": [
+      "numeric",
+      "Precis�o:14"
+    ],
+    "PF_PJ_EMISSOR_1": [
+      "char",
+      "2"
+    ],
+    "CPF_CNPJ_EMISSOR_1": [
+      "varchar",
+      "20"
+    ],
+    "EMISSOR_LIGADO_1": [
+      "char",
+      "1"
+    ],
+    "PR_EMISSOR_1": [
+      "numeric",
+      "Precis�o:14"
+    ],
+    "PF_PJ_EMISSOR_2": [
+      "char",
+      "2"
+    ],
+    "CPF_CNPJ_EMISSOR_2": [
+      "varchar",
+      "20"
+    ],
+    "EMISSOR_LIGADO_2": [
+      "char",
+      "1"
+    ],
+    "PR_EMISSOR_2": [
+      "numeric",
+      "Precis�o:14"
+    ],
+    "PF_PJ_EMISSOR_3": [
+      "char",
+      "2"
+    ],
+    "CPF_CNPJ_EMISSOR_3": [
+      "varchar",
+      "20"
+    ],
+    "EMISSOR_LIGADO_3": [
+      "char",
+      "1"
+    ],
+    "PR_EMISSOR_3": [
+      "numeric",
+      "Precis�o:14"
+    ],
+    "PR_ATIVO_CRED_PRIV": [
+      "numeric",
+      "Precis�o:14"
+    ],
+    "VEDAC_TAXA_PERFM": [
+      "varchar",
+      "35"
+    ],
+    "DT_COTA_TAXA_PERFM": [
+      "date",
+      "10"
+    ],
+    "VL_COTA_TAXA_PERFM": [
+      "numeric",
+      "Precis�o:14"
+    ],
+    "VL_DIREITO_DISTRIB": [
+      "numeric",
+      "Precis�o:14"
+    ],
+    "NR_COTST_ENTID_PREVID_COMPL": [
+      "int",
+      "Precis�o:10"
+    ],
+    "PR_COTST_ENTID_PREVID_COMPL": [
+      "numeric",
+      "Precis�o:4"
+    ],
+    "PR_PATRIM_LIQ_MAIOR_COTST": [
+      "numeric",
+      "Precis�o:4"
+    ],
+    "NR_DIA_CINQU_PERC": [
+      "numeric",
+      "Precis�o:14"
+    ],
+    "NR_DIA_CEM_PERC": [
+      "numeric",
+      "Precis�o:14"
+    ],
+    "ST_LIQDEZ": [
+      "varchar",
+      "1"
+    ],
+    "PR_PATRIM_LIQ_CONVTD_CAIXA": [
+      "numeric",
+      "Precis�o:8"
+    ]
+  },
+  "lamina_fi_rentab_mes": {
+    "CNPJ_FUNDO": [
+      "varchar",
+      "20"
+    ],
+    "DENOM_SOCIAL": [
+      "varchar",
+      "100"
+    ],
+    "DT_COMPTC": [
+      "date",
+      "10"
+    ],
+    "MES_RENTAB": [
+      "numeric",
+      "Precis�o:2"
+    ],
+    "PR_RENTAB_MES": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_VARIACAO_INDICE_REFER_MES": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_PERFM_INDICE_REFER_MES": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "RENTAB_MES_OBS": [
+      "nvarchar",
+      "1000"
+    ]
+  },
+  "lamina_fi_carteira": {
+    "CNPJ_FUNDO": [
+      "varchar",
+      "20"
+    ],
+    "DENOM_SOCIAL": [
+      "varchar",
+      "100"
+    ],
+    "DT_COMPTC": [
+      "date",
+      "10"
+    ],
+    "TP_ATIVO": [
+      "varchar",
+      "250"
+    ],
+    "PR_PL_ATIVO": [
+      "numeric",
+      "Precis�o:10"
+    ]
+  },
+  "lamina_fi": {
+    "CNPJ_FUNDO": [
+      "varchar",
+      "20"
+    ],
+    "DENOM_SOCIAL": [
+      "varchar",
+      "100"
+    ],
+    "DT_COMPTC": [
+      "date",
+      "10"
+    ],
+    "MES_RENTAB": [
+      "numeric",
+      "Precis�o:2"
+    ],
+    "PR_RENTAB_MES": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_VARIACAO_INDICE_REFER_MES": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_PERFM_INDICE_REFER_MES": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "RENTAB_MES_OBS": [
+      "nvarchar",
+      "1000"
+    ]
+  },
+  "lamina_fi_rentab_ano": {
+    "TP_FUNDO_CLASSE": [
+      "varchar",
+      "15"
+    ],
+    "CNPJ_FUNDO_CLASSE": [
+      "varchar",
+      "20"
+    ],
+    "ID_SUBCLASSE": [
+      "varchar",
+      "15"
+    ],
+    "DENOM_SOCIAL": [
+      "varchar",
+      "100"
+    ],
+    "DT_COMPTC": [
+      "date",
+      "10"
+    ],
+    "ANO_RENTAB": [
+      "numeric",
+      "Precis�o:4"
+    ],
+    "PR_RENTAB_ANO": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_VARIACAO_INDICE_REFER_ANO": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "PR_PERFM_INDICE_REFER_ANO": [
+      "numeric",
+      "Precis�o:10"
+    ],
+    "RENTAB_ANO_OBS": [
+      "nvarchar",
+      "1000"
+    ]
+  },
+  "compl_fi": {
+    "TP_FUNDO": [
+      "varchar",
+      "15"
+    ],
+    "CNPJ_FUNDO": [
+      "varchar",
+      "20"
+    ],
+    "DT_COMPTC": [
+      "date",
+      "10"
+    ],
+    "MEIO_INF_COTST": [
+      "varchar",
+      "10"
+    ],
+    "DS_RESP_INF_COTST": [
+      "varchar",
+      "250"
+    ],
+    "LOCAL_INF_COTST": [
+      "varchar",
+      "100"
+    ],
+    "FORMA_INF_COTST": [
+      "varchar",
+      "100"
+    ]
+  },
+  "compl_fi_inf_cotst": {
+    "TP_FUNDO": [
+      "varchar",
+      "15"
+    ],
+    "CNPJ_FUNDO": [
+      "varchar",
+      "20"
+    ],
+    "DT_COMPTC": [
+      "date",
+      "10"
+    ],
+    "MEIO_INF_COTST": [
+      "varchar",
+      "10"
+    ],
+    "DS_RESP_INF_COTST": [
+      "varchar",
+      "250"
+    ],
+    "LOCAL_INF_COTST": [
+      "varchar",
+      "100"
+    ],
+    "FORMA_INF_COTST": [
+      "varchar",
+      "100"
+    ]
+  },
+  "compl_fi_prest": {
+    "TP_FUNDO": [
+      "varchar",
+      "15"
+    ],
+    "CNPJ_FUNDO": [
+      "varchar",
+      "20"
+    ],
+    "DT_COMPTC": [
+      "date",
+      "10"
+    ],
+    "DS_SERV_PREST": [
+      "varchar",
+      "100"
+    ],
+    "NM_PREST_SERV": [
+      "varchar",
+      "100"
+    ]
+  },
+  "compl_fi_inf": {
+    "TP_FUNDO": [
+      "varchar",
+      "15"
+    ],
+    "CNPJ_FUNDO": [
+      "varchar",
+      "20"
+    ],
+    "DT_COMPTC": [
+      "date",
+      "10"
+    ],
+    "MEIO_INF_COTST": [
+      "varchar",
+      "10"
+    ],
+    "DS_RESP_INF_COTST": [
+      "varchar",
+      "250"
+    ],
+    "LOCAL_INF_COTST": [
+      "varchar",
+      "100"
+    ],
+    "FORMA_INF_COTST": [
+      "varchar",
+      "100"
+    ]
+  }
+}
