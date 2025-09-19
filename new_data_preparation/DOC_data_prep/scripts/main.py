@@ -9,7 +9,8 @@ import tempfile
 # Objective:
 #   Orchestrate the workflow to generate CREATE TABLE SQL using in-memory outputs.
 #   Steps:
-#     1. Extract headers from CSVs (csv_doc_headers.sh)
+#     1. Extract unique column names from all CSV headers that match each META file
+#        (csv_doc_headers.sh now collects all unique column names from all matching CSVs).
 #     2. Extract meta info from meta files (format_meta.sh)
 #     3. Use tabelas_colunas.sh to generate a new JSON:
 #        {"tabela1": {"col1": ["tipo", "tamanho"], "col2": ...}, ...}
@@ -27,7 +28,7 @@ meta_folder = sys.argv[2]
 # Step 1: Extract headers from CSVs (as JSON)
 with tempfile.NamedTemporaryFile("w+", delete=False, encoding="latin1") as headers_file:
     subprocess.run(
-        ["bash", "scripts_dados_cvm/DOC/csv_doc_headers.sh", csv_folder],
+        ["bash", "new_data_preparation/DOC_data_prep/scripts/csv_doc_headers.sh", csv_folder],
         stdout=headers_file
     )
     headers_file_path = headers_file.name
@@ -35,7 +36,7 @@ with tempfile.NamedTemporaryFile("w+", delete=False, encoding="latin1") as heade
 # Step 2: Extract meta info from meta files (as JSON)
 with tempfile.NamedTemporaryFile("w+", delete=False, encoding="latin1") as meta_file:
     subprocess.run(
-        ["bash", "scripts_dados_cvm/DOC/find_meta_files.sh", meta_folder],
+        ["bash", "new_data_preparation/DOC_data_prep/scripts/find_meta_files.sh", meta_folder],
         stdout=meta_file
     )
     meta_file_path = meta_file.name
@@ -43,7 +44,7 @@ with tempfile.NamedTemporaryFile("w+", delete=False, encoding="latin1") as meta_
 # Step 3: Use tabelas_colunas.sh to generate the joined JSON
 with tempfile.NamedTemporaryFile("w+", delete=False, encoding="latin1") as tabelas_file:
     subprocess.run(
-        ["bash", "scripts_dados_cvm/DOC/tabelas_colunas.sh", headers_file_path, meta_file_path],
+        ["bash", "new_data_preparation/DOC_data_prep/scripts/tabelas_colunas.sh", headers_file_path, meta_file_path],
         stdout=tabelas_file
     )
     tabelas_file_path = tabelas_file.name

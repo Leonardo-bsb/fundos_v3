@@ -21,7 +21,7 @@ tmp_json=$(mktemp)
 
 # Para cada arquivo meta_*.txt, extrai as chaves (colunas) e arrays de valores (apenas o array interno)
 find "$base_dir" -type f -path "*/META/meta_*.txt" | while read -r f; do
-  bash scripts_dados_cvm/DOC/format_meta.sh "$f" | jq -c 'to_entries[] | [ .key, .value[0], .value[1] ]' >> "$tmp_json"
+  bash new_data_preparation/DOC_data_prep/scripts/format_meta.sh "$f" | jq -c 'to_entries[] | [ .key, .value[0], .value[1] ]' >> "$tmp_json"
 done
 
 # Monta o JSON final, garantindo unicidade das chaves (a última ocorrência prevalece) e ordenando alfabeticamente
