@@ -1,0 +1,38 @@
+Obs Importante:
+Há um erro no arquivo dados/DOC/CDA/META/meta_cda_fiim.txt:
+
+esse campo deve ficar assim:
+
+Campo: CPF_CNPJ_EMISSOR
+-----------------------
+   Descri��o : Informa o c�digo de identifica��o do emissor, pessoa f�sica ou jur�dica
+   Dom�nio   : Alfanum�rico
+   Tipo Dados: varchar
+   Tamanho   : 20
+
+
+
+antes estava tipo de dados numeric, precisao 18, scale 0
+
+Remover linhas do srquivos .csv em dados/DOC/CDA/ que apresentam a palavra 'Warning' na primeira linhas
+
+for file in ./*.csv; do sed -i '/Warning/d' "$file"; done
+
+psql:new_data_preparation/DOC_data_prep/results/import_file.sql:559: ERROR:  column "CNPJ_FUNDO_COTA" of relation "cda_fi_blc_2" does not exist
+
+esse erro ocorre porque falta a definição desse campo no arquivo meta.txt
+
+a definição deve ser a mesma dos outros campos CNPJ_FUNDO_XXXX
+Campo: CNPJ_FUNDO_COTA
+-----------------------
+   Descri��o : Informa o c�digo de identifica��o do fundo de investimento
+   Dom�nio   : Alfanum�rico
+   Tipo Dados: varchar
+   Tamanho   : 20
+
+   vou corrigir diretamente no script de criação da tabela
+
+"CNPJ_FUNDO_COTA" varchar(20),
+"NM_FUNDO_COTA" varchar(100)
+
+tamanho DS_ATIVO em cda_fi_BLC_8 deve ser de 1000 e n��o 255
