@@ -3476,3 +3476,5 @@
 \echo Imported into compl_fi_inf
 \copy compl_fi_prest("TP_FUNDO","CNPJ_FUNDO","DT_COMPTC","DS_SERV_PREST","NM_PREST_SERV") FROM 'dados/DOC/COMPL/DADOS/compl_fi_prest_201804.csv' WITH (FORMAT csv, HEADER true, DELIMITER ';', ENCODING 'LATIN1');
 \echo Imported into compl_fi_prest
+
+\echo Script finished!
