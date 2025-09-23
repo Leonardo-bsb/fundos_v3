@@ -91,3 +91,6 @@ Path(headers_file_path).unlink(missing_ok=True)
 Path(meta_file_path).unlink(missing_ok=True)
 Path(tabelas_file_path).unlink(missing_ok=True)
 
+# Print message at the end (as SQL for psql)
+print(r"\echo Script finished successfully!")
+
