@@ -24,7 +24,7 @@ if len(sys.argv) != 3:
 csv_folder = sys.argv[1]
 meta_folder = sys.argv[2]
 
-headers_script = ["bash", "scripts_dados_cvm/DOC/csv_doc_headers.sh", csv_folder]
+headers_script = ["bash", "scripts_dados_cvm/DOC/extract_csv_headers.sh", csv_folder]
 meta_script = ["bash", "scripts_dados_cvm/DOC/find_meta_files.sh", meta_folder]
 
 # Run scripts and load JSON outputs (decode as latin1)

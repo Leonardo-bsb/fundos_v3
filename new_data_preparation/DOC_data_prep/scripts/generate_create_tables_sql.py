@@ -28,7 +28,7 @@ meta_folder = sys.argv[2]
 # Step 1: Extract headers from CSVs (as JSON)
 with tempfile.NamedTemporaryFile("w+", delete=False, encoding="latin1") as headers_file:
     subprocess.run(
-        ["bash", "new_data_preparation/DOC_data_prep/scripts/csv_doc_headers.sh", csv_folder],
+        ["bash", "new_data_preparation/DOC_data_prep/scripts/extract_csv_headers.sh", csv_folder],
         stdout=headers_file
     )
     headers_file_path = headers_file.name
