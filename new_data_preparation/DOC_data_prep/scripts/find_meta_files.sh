@@ -1,5 +1,5 @@
 #!/bin/bash
-# filepath: /home/leo/linguagens/fundos_v3/scripts_dados_cvm/DOC/find_meta_files.sh
+# filepath: /home/leo/linguagens/fundos_v3/new_data_preparation/DOC_data_prep/scripts/find_meta_files.sh
 # ---------------------------------------------------------------------------
 # Objetivo:
 #   Gerar um objeto JSON onde cada chave é o nome único da coluna (segunda ordem)
@@ -9,6 +9,7 @@
 #
 # Uso:
 #   bash find_meta_files.sh <base_dir> > meta_files_columns.json
+#   Este script chama extract_meta_fields.sh para extrair os campos dos arquivos META.
 # ---------------------------------------------------------------------------
 
 if [ $# -ne 1 ]; then
