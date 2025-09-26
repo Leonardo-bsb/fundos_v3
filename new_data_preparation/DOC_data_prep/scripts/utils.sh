@@ -46,6 +46,7 @@ extract_csv_headers_json() {
 # Processa um arquivo META e gera pares "campo": ["tipo","tamanho"]
 build_object_from_meta_file() {
   local in="$1"
+  echo "{"
   sed -e 's/\r//g' "$in" \
     | sed '/^-/d' \
     | sed '/Descrição/d' \
@@ -71,6 +72,7 @@ BEGIN {
   printf "  \"%s\": [\"%s\",\"%s\"]", name, typ, size
 }
 END { print "" }'
+  echo "}"
 }
 
 # Função: format_meta_json
@@ -127,7 +129,58 @@ find_meta_files_json() {
 
   # Para cada arquivo meta_*.txt, extrai as chaves (colunas) e arrays de valores (apenas o array interno)
   find "$base_dir" -type f -path "*/META/meta_*.txt" | while read -r f; do
-    bash new_data_preparation/DOC_data_prep/scripts/extract_meta_fields.sh "$f" | jq -c 'to_entries[] | [ .key, .value[0], .value[1] ]' >> "$tmp_json"
+    build_object_from_meta_file "$f" | jq -c 'to_entries[] | [ .key, .value[0], .value[1] ]' >> "$tmp_json"
+  done
+
+  # Monta o JSON final, garantindo unicidade das chaves (a última ocorrência prevalece) e ordenando alfabeticamente
+  echo "{"
+  awk -F\" '
+    {
+      key = $2;
+      value_start = index($0, "[");
+      value = substr($0, value_start);
+      # value é do tipo ["key","tipo","tamanho"]
+      # Queremos ["tipo","tamanho"]
+      sub(/^\["[^"]+",/, "[", value);
+      data[key] = value;
+    }
+    END {
+      n = asorti(data, sorted_keys);
+      for (i = 1; i <= n; i++) {
+        k = sorted_keys[i];
+        if (i > 1) printf(",\n");
+        printf("  \"%s\": %s", k, data[k]);
+      }
+    }
+  ' "$tmp_json"
+  echo
+  echo "}"
+
+  rm "$tmp_json"
+}
+
+# Função: find_meta_files_json_flat
+# Objetivo:
+#   Gerar um objeto JSON onde cada chave é o nome único da coluna encontrada nos arquivos meta_*.txt das subpastas META,
+#   e o valor é a array correspondente (ex: ["numeric","Precis�o:17"]), sem repetir a chave dentro da array.
+#   As chaves aparecem em ordem alfabética.
+# Uso:
+#   source utils.sh
+#   find_meta_files_json_flat <base_dir> > meta_files_columns.json
+
+find_meta_files_json_flat() {
+  local base_dir="$1"
+  if [ -z "$base_dir" ]; then
+    echo "Uso: find_meta_files_json_flat <base_dir>" >&2
+    return 1
+  fi
+
+  local tmp_json
+  tmp_json=$(mktemp)
+
+  # Para cada arquivo meta_*.txt, extrai as chaves (colunas) e arrays de valores (apenas o array interno)
+  find "$base_dir" -type f -path "*/META/meta_*.txt" | while read -r f; do
+    build_object_from_meta_file "$f" | jq -c 'to_entries[] | [ .key, .value[0], .value[1] ]' >> "$tmp_json"
   done
 
   # Monta o JSON final, garantindo unicidade das chaves (a última ocorrência prevalece) e ordenando alfabeticamente
