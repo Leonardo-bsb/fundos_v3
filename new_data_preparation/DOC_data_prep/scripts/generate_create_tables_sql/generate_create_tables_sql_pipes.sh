@@ -4,7 +4,7 @@
 set -euo pipefail
 
 # Carrega funções utilitárias do projeto (deve conter todas as funções auxiliares usadas abaixo)
-source /home/leo/linguagens/fundos_v3/new_data_preparation/DOC_data_prep/scripts/utils_pipes.sh
+source /home/leo/linguagens/fundos_v3/new_data_preparation/DOC_data_prep/scripts/generate_create_tables_sql/utils_pipes.sh
 
 # Função principal: Orquestra a geração do SQL de criação de tabelas DOC usando apenas pipes
 main() {

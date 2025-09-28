@@ -3,10 +3,10 @@
 
 # Função: extract_csv_headers_json
 # Objetivo:
-#   Para cada arquivo .txt em subpastas META, procura todos os arquivos .csv que comecem
-#   com esse nome nas subpastas /DADOS/ do base_dir e gera um objeto JSON onde
-#   as chaves são o clean_name e os valores são arrays com os nomes únicos das colunas
-#   encontradas nos headers desses csvs.
+#   Para cada arquivo meta_*.txt nas subpastas META do base_dir, procura todos os arquivos .csv
+#   que começam com o nome da tabela nas subpastas DADOS e gera um objeto JSON onde
+#   as chaves são o nome da tabela e os valores são arrays com os nomes únicos das colunas
+#   encontradas nos headers desses CSVs.
 #
 # Uso:
 #   extract_csv_headers_json /caminho/para/pasta
@@ -103,45 +103,6 @@ format_meta_json() {
   rm -f tmp_obj.txt
 }
 
-# Função: find_meta_files_json
-# Objetivo:
-#   Recebe uma lista de arquivos META via stdin, extrai as chaves (colunas) e arrays de valores (tipo, tamanho)
-#   e gera um objeto JSON onde cada chave é o nome único da coluna encontrada nos arquivos META,
-#   e o valor é a array correspondente (ex: ["numeric","Precis�o:17"]), sem repetir a chave dentro da array.
-#   As chaves aparecem em ordem alfabética.
-#
-# Uso:
-#   find pasta -name '*.txt' | find_meta_files_json
-
-find_meta_files_json() {
-  local tmp_json
-  tmp_json=$(mktemp)
-  while read -r f; do
-    cat "$f" | build_object_from_meta_file | jq -c 'to_entries[] | [ .key, .value[0], .value[1] ]' >> "$tmp_json"
-  done
-  echo "{"
-  awk -F\" '
-    {
-      key = $2;
-      value_start = index($0, "[");
-      value = substr($0, value_start);
-      sub(/^\["[^"]+",/, "[", value);
-      data[key] = value;
-    }
-    END {
-      n = asorti(data, sorted_keys);
-      for (i = 1; i <= n; i++) {
-        k = sorted_keys[i];
-        if (i > 1) printf(",\n");
-        printf("  \"%s\": %s", k, data[k]);
-      }
-    }
-  ' "$tmp_json"
-  echo
-  echo "}"
-  rm "$tmp_json"
-}
-
 # Função: find_meta_files_json_flat
 # Objetivo:
 #   Recebe um diretório como argumento, processa todos os arquivos META dentro dele e gera um JSON
@@ -191,12 +152,12 @@ find_meta_files_json_flat() {
 
 # Função: generate_table_columns_json
 # Objetivo:
-#   Recebe dois JSONs via stdin (primeiro headers, depois meta), e gera um novo JSON:
+#   Recebe dois JSONs via stdin, separados por um delimitador ___DELIM___, e gera um novo JSON:
 #   {"tabela1": {"col1": ["tipo", "tamanho"], "col2": ...}, ...}
 #   Só insere colunas que existem em meta.json.
 #
 # Uso:
-#   cat headers.json meta.json | generate_table_columns_json
+#   (echo "$headers_json"; echo "___DELIM___"; echo "$meta_json") | generate_table_columns_json
 
 generate_table_columns_json() {
   # Lê dois JSONs do stdin, separados por um delimitador ___DELIM___
