@@ -9,7 +9,7 @@ from utils_pipes import (
     generate_sql
 )
 
-UTILS_SH = "new_data_preparation/DOC_data_prep/scripts/generate_create_tables_sql/python_only/utils_pipes.sh"
+UTILS_SH = "new_data_preparation/DOC_data_prep/scripts/generate_create_tables_sql/utils_pipes.sh"
 
 def build_object_from_meta_file_bash(meta_file):
     """
