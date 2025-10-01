@@ -2,7 +2,7 @@
 # filepath: /home/leo/linguagens/fundos_v3/new_data_preparation/DOC_data_prep/scripts/import_csvs_new.sh
 
 # Itera sobre todos os arquivos CSV em todas as subpastas /DADOS de dados/DOC/
-find dados/DOC/ -type f -path "*/DADOS/*.csv" | while read -r file; do
+find dados/CAD/ -type f -path "*/DADOS/*.csv" | while read -r file; do
   [ -f "$file" ] || continue
 
   # Obtém o nome da tabela (basename sem sufixo _yyyy, _yyyymm ou _yyyymmdd)
