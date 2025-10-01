@@ -18,6 +18,6 @@ SCRIPT_SQL="$1"
   echo "Script SQL: $SCRIPT_SQL"
   psql -U "$DB_USER" -d "$DB_NAME" -f "$SCRIPT_SQL"
   echo "Script execution finished!"
-} >> psql_log.txt 2>&1
+} > psql_log.txt 2>&1
 
 echo "Script completed. Check psql_log.txt for details."
