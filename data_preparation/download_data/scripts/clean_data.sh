@@ -3,12 +3,13 @@
 
 # Caminho relativo a partir do diretório raiz do projeto
 DADOS_DIR="dados"
-
+find "$DADOS_DIR" -type f -exec dos2unix {} \;
 # Remove \r do final das linhas e todas as aspas simples e duplas de todos os arquivos na pasta dados/ recursivamente
 find "$DADOS_DIR" -type f -exec sh -c '
   echo "Processando: $1"
   sed -i "s/\r\$//; s/[\"'\'']/ /g" "$1"
 ' _ {} \;
 
-echo "Conversão concluída. Todos os arquivos em dados/ agora estão no formato Unix e sem aspas."
+find "$DADOS_DIR" -type f -exec sed -i '/Warning: Null value is eliminated by an aggregate or other SET operation./d' {} \;
 
+echo "Conversão concluída. Todos os arquivos em dados/ agora estão no formato Unix e sem aspas."

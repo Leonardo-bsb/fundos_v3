@@ -158,7 +158,7 @@ CREATE TABLE extrato_fi (
     "TAXA_SAIDA_PR" numeric,
     "TAXA_SAIDA_REAL" numeric,
     "TP_DIA_PAGTO_RESGATE" varchar(13),
-    "TP_FUNDO_CLASSE" varchar(15),
+    "TP_FUNDO_CLASSE" varchar(20),
     "TP_PRAZO" varchar(13),
     "VL_CUPOM" numeric
 );
@@ -190,7 +190,7 @@ CREATE TABLE cda_fi_BLC_5 (
     "TP_APLIC" varchar(150),
     "TP_ATIVO" varchar(250),
     "TP_FUNDO" varchar(15),
-    "TP_FUNDO_CLASSE" varchar(15),
+    "TP_FUNDO_CLASSE" varchar(20),
     "TP_NEGOC" varchar(24),
     "VL_AQUIS_NEGOC" numeric,
     "VL_CUSTO_POS_FINAL" numeric,
@@ -216,7 +216,7 @@ CREATE TABLE cda_fi_BLC_8 (
     "TP_APLIC" varchar(150),
     "TP_ATIVO" varchar(250),
     "TP_FUNDO" varchar(15),
-    "TP_FUNDO_CLASSE" varchar(15),
+    "TP_FUNDO_CLASSE" varchar(20),
     "TP_NEGOC" varchar(24),
     "VL_AQUIS_NEGOC" numeric,
     "VL_CUSTO_POS_FINAL" numeric,
@@ -253,7 +253,7 @@ CREATE TABLE cda_fi_BLC_7 (
     "TP_APLIC" varchar(150),
     "TP_ATIVO" varchar(250),
     "TP_FUNDO" varchar(15),
-    "TP_FUNDO_CLASSE" varchar(15),
+    "TP_FUNDO_CLASSE" varchar(20),
     "TP_NEGOC" varchar(24),
     "VL_AQUIS_NEGOC" numeric,
     "VL_ATIVO_EXTERIOR" text,
@@ -269,7 +269,7 @@ CREATE TABLE cda_fi_PL (
     "DENOM_SOCIAL" varchar(100),
     "DT_COMPTC" date,
     "TP_FUNDO" varchar(15),
-    "TP_FUNDO_CLASSE" varchar(15),
+    "TP_FUNDO_CLASSE" varchar(20),
     "VL_PATRIM_LIQ" numeric
 );
 
@@ -300,7 +300,7 @@ CREATE TABLE cda_fi_BLC_6 (
     "TP_APLIC" varchar(150),
     "TP_ATIVO" varchar(250),
     "TP_FUNDO" varchar(15),
-    "TP_FUNDO_CLASSE" varchar(15),
+    "TP_FUNDO_CLASSE" varchar(20),
     "TP_NEGOC" varchar(24),
     "VL_AQUIS_NEGOC" numeric,
     "VL_CUSTO_POS_FINAL" numeric,
@@ -327,7 +327,7 @@ CREATE TABLE cda_fi_BLC_4 (
     "TP_APLIC" varchar(150),
     "TP_ATIVO" varchar(250),
     "TP_FUNDO" varchar(15),
-    "TP_FUNDO_CLASSE" varchar(15),
+    "TP_FUNDO_CLASSE" varchar(20),
     "TP_NEGOC" varchar(24),
     "VL_AQUIS_NEGOC" numeric,
     "VL_CUSTO_POS_FINAL" numeric,
@@ -351,7 +351,7 @@ CREATE TABLE cda_fi_BLC_3 (
     "TP_APLIC" varchar(150),
     "TP_ATIVO" varchar(250),
     "TP_FUNDO" varchar(15),
-    "TP_FUNDO_CLASSE" varchar(15),
+    "TP_FUNDO_CLASSE" varchar(20),
     "TP_NEGOC" varchar(24),
     "VL_AQUIS_NEGOC" numeric,
     "VL_CUSTO_POS_FINAL" numeric,
@@ -376,7 +376,7 @@ CREATE TABLE cda_fi_BLC_2 (
     "TP_APLIC" varchar(150),
     "TP_ATIVO" varchar(250),
     "TP_FUNDO" varchar(15),
-    "TP_FUNDO_CLASSE" varchar(15),
+    "TP_FUNDO_CLASSE" varchar(20),
     "TP_NEGOC" varchar(24),
     "VL_AQUIS_NEGOC" numeric,
     "VL_CUSTO_POS_FINAL" numeric,
@@ -394,7 +394,7 @@ CREATE TABLE cda_fiim_CONFID (
     "DT_CONFID_APLIC" date,
     "ID_DOC" text,
     "TP_APLIC" varchar(150),
-    "TP_FUNDO_CLASSE" varchar(15),
+    "TP_FUNDO_CLASSE" varchar(20),
     "VL_AQUIS_NEGOC" numeric,
     "VL_CUSTO_POS_FINAL" numeric,
     "VL_MERC_POS_FINAL" numeric,
@@ -408,7 +408,7 @@ CREATE TABLE cda_fi_CONFID (
     "DT_COMPTC" date,
     "DT_CONFID_APLIC" date,
     "TP_APLIC" varchar(150),
-    "TP_FUNDO_CLASSE" varchar(15),
+    "TP_FUNDO_CLASSE" varchar(20),
     "VL_AQUIS_NEGOC" numeric,
     "VL_CUSTO_POS_FINAL" numeric,
     "VL_MERC_POS_FINAL" numeric,
@@ -443,7 +443,7 @@ CREATE TABLE cda_fiim (
     "TP_APLIC" varchar(150),
     "TP_ATIVO" varchar(250),
     "TP_FUNDO" varchar(15),
-    "TP_FUNDO_CLASSE" varchar(15),
+    "TP_FUNDO_CLASSE" varchar(20),
     "TP_NEGOC" varchar(24),
     "VL_AQUIS_NEGOC" numeric,
     "VL_CUSTO_POS_FINAL" numeric,
@@ -470,7 +470,7 @@ CREATE TABLE cda_fi_BLC_1 (
     "TP_APLIC" varchar(150),
     "TP_ATIVO" varchar(250),
     "TP_FUNDO" varchar(15),
-    "TP_FUNDO_CLASSE" varchar(15),
+    "TP_FUNDO_CLASSE" varchar(20),
     "TP_NEGOC" varchar(24),
     "TP_TITPUB" varchar(50),
     "VL_AQUIS_NEGOC" numeric,
@@ -486,7 +486,7 @@ CREATE TABLE balancete_fi (
     "CNPJ_FUNDO_CLASSE" varchar(20),
     "DT_COMPTC" date,
     "PLANO_CONTA_BALCTE" varchar(5),
-    "TP_FUNDO_CLASSE" varchar(15),
+    "TP_FUNDO_CLASSE" varchar(20),
     "VL_SALDO_BALCTE" numeric
 );
 
@@ -501,7 +501,11 @@ CREATE TABLE eventual_fi (
     "NM_ARQ" varchar(100),
     "RESULTADO_AUDITORIA" varchar(100),
     "TP_DOC" varchar(15),
-    "TP_FUNDO" varchar(15)
+    "TP_FUNDO" varchar(15),
+    "TP_FUNDO_CLASSE" varchar(20),
+    "CNPJ_FUNDO_CLASSE" varchar(20),
+    "ID_SUBCLASSE" varchar(15)
+
 );
 
 -- Table: perfil_mensal_fi
@@ -628,7 +632,7 @@ CREATE TABLE lamina_fi_rentab_mes (
     "PR_RENTAB_MES" numeric,
     "PR_VARIACAO_INDICE_REFER_MES" numeric,
     "RENTAB_MES_OBS" text,
-    "TP_FUNDO_CLASSE" varchar(15)
+    "TP_FUNDO_CLASSE" varchar(20)
 );
 
 -- Table: lamina_fi_carteira
@@ -640,7 +644,7 @@ CREATE TABLE lamina_fi_carteira (
     "ID_SUBCLASSE" varchar(15),
     "PR_PL_ATIVO" numeric,
     "TP_ATIVO" varchar(250),
-    "TP_FUNDO_CLASSE" varchar(15)
+    "TP_FUNDO_CLASSE" varchar(20)
 );
 
 -- Table: lamina_fi
@@ -722,7 +726,7 @@ CREATE TABLE lamina_fi (
     "TEL_SAC" numeric,
     "TP_ATIVO" varchar(250),
     "TP_DIA_PAGTO_RESGATE" varchar(13),
-    "TP_FUNDO_CLASSE" varchar(15),
+    "TP_FUNDO_CLASSE" varchar(20),
     "TP_TAXA_ADM" varchar(8),
     "VL_AJUSTE_PERFM_EXEMPLO" numeric,
     "VL_DESPESA_3ANO" numeric,
@@ -750,7 +754,7 @@ CREATE TABLE lamina_fi_rentab_ano (
     "PR_RENTAB_ANO" numeric,
     "PR_VARIACAO_INDICE_REFER_ANO" numeric,
     "RENTAB_ANO_OBS" text,
-    "TP_FUNDO_CLASSE" varchar(15)
+    "TP_FUNDO_CLASSE" varchar(20)
 );
 
 -- Table: compl_fi

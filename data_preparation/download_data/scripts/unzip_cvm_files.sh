@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define o diretório onde estão os arquivos zip
-DATA_DIR="$(dirname "$0")/../dados"
+DATA_DIR="dados"
 
 # Procura todos os arquivos .zip recursivamente na pasta dados
 # Para cada arquivo encontrado:

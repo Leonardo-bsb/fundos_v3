@@ -189,6 +189,7 @@ CREATE TABLE registro_subclasse (
     "ID_Registro_Classe" bigint,
     "ID_Subclasse" varchar(15),
     "Publico_Alvo" varchar(15),
+    "Data_Inicio_Situacao" date,
     "Situacao" varchar(100)
 );
 
@@ -229,6 +230,7 @@ CREATE TABLE registro_classe (
     "Patrimonio_Liquido" numeric,
     "Permitido_Aplicacao_CemPorCento_Exterior" varchar(1),
     "Publico_Alvo" varchar(15),
+    "Data_Inicio_Situacao" date,
     "Situacao" varchar(100),
     "Tipo_Classe" varchar(100),
     "Tributacao_Longo_Prazo" varchar(3)
